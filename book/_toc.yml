@@ -24,7 +24,6 @@ parts:
       sections:
       - file: Python_basics.md
       - file: Python_functies.md
-      - file: Python_input.md
 
   - caption: Oefeningen
     numbered: true
