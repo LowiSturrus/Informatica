@@ -24,14 +24,14 @@ parts:
   - caption: Python
     numbered: true
     chapters:    
-    - file: python.md
-    - file: python/programma.md
-    - file: python/python_basics.ipynb
+    - file: Python.md
+    - file: Python/programma.md
+    - file: Python/python_basics
       sections:
-      - file: python/programma.md
-      - file: python/python_basics.ipynb
-      - file: python/python_functies.ipynb
-      - file: python/python_input.ipynb
+      - file: Python/programma.md
+      - file: Python/python_basics
+      - file: Python/python_functies
+      - file: Python/python_input
 
   - caption: Oefeningen
     numbered: true
