@@ -22,9 +22,9 @@ parts:
       - file: changes/literatuurverwijzingen.md
     - file: python.md
       sections:
-      - file: Python_basics.md
-      - file: Python_functies.md
-      - file: Python_input.md
+      - file: Python_basics.ipynb
+      - file: Python_functies.ipynb
+      - file: Python_input.ipynb
 
   - caption: Oefeningen
     numbered: true
