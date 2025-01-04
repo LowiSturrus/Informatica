@@ -1,0 +1,597 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Python: De basics\n",
+    "Welkom bij de Python cursus. Vandaag gaan we aan de slag met programmeren in de browser. Als het goed is weet je hoe dat moet... (bekijk anders even de [introductie](./Python_intro.ipynb)) \n",
+    "\n",
+    "## Leerdoelen\n",
+    "- Werken met variabelen en types\n",
+    "- Wiskundige bewerkingen\n",
+    "- Libraries inladen en gebruiken\n",
+    "- Numpy functies\n",
+    "- Plotten\n",
+    "\n",
+    "```{exercise}\n",
+    "Run de cell hieronder.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print('Hello, World!')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Variabelen, types en wiskundige bewerkingen\n",
+    "Als je een beetje bekend bent met programmeren weet je al dat er verschillende variabele types zijn. Zo is er `int` voor de gehele getallen en `float` voor komma getallen. In sommige programma's moet je precies vertellen wat voor een variabele je wilt hebben, maar Python kan dat zelf goed bepalen. Met het commando `type` kun je precies zien wat voor een typesoort je variabele is.\n",
+    "\n",
+    "```{exercise}\n",
+    "Run de cell hieronder en bekijk eens wat voor verschillende types de vijf aangemaakte variabelen zijn. Kende je al deze types?\n",
+    "```\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a = 1\n",
+    "b = '2'\n",
+    "c = 1.3\n",
+    "d = True\n",
+    "e = 'Ik ben een string'\n",
+    "\n",
+    "type(a)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Variabele $b$ is misschien niet wat we verwacht hadden. Doordat de type een `string` is, kunnen we ook niet zo makkelijk wiskundige bewerkingen doen. \n",
+    "\n",
+    "```{exercise} \n",
+    "Probeer maar eens (in de cell hierboven) `a + b` te printen. Leg uit waarom dat niet werkt.\n",
+    "```\n",
+    "\n",
+    "Een van de mogelijkheden die we hebben is de types te converteren. `str(a)` verandert het type van `int` naar `str`. \n",
+    "\n",
+    "```{exercise}\n",
+    "In de cell hierboven verander het type van variabele zodat `print(a+b)` de waarde 3 terug geeft.\n",
+    "```\n",
+    "\n",
+    "In de bovenste code cell werd Hello world geprint. Met de print functie kunnen we nog meer:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print('Variabele a + b = ', a + int(b))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```{exercise}\n",
+    "Leg uit waarom de eerste $a$ en $b$ niet als getal geprint worden.\n",
+    "```\n",
+    "\n",
+    "```{exercise}\n",
+    "Wat gebeurt er wanneer je variabele $c$ converteert naar het type integer?\n",
+    "```\n",
+    "\n",
+    "Wat wellicht opvalt is dat je op deze manier dus strings en wiskundige bewerkingen kunt samenvoegen. Wat niet direct opvalt, is dat er kennelijk sprake is van een geheugen. In de hele code cell hebben we niet gespecificeerd wat $a$ en $b$ zijn. Die zijn in het geheugen opgeslagen. Wil je in een keer weten welke variabelen er zijn opgeslagen in het geheugen, en van welk type deze variabelen zijn, kun je het commando `%whos` gebruiken:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "%whos"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Nu we iets weten van de verschillende types kunnen we een voorspelling doen wat de uitkomst is van verschillende wiskundige bewerkingen.\n",
+    "\n",
+    "```{exercise}\n",
+    "Voorspel wat de uitkomst is van onderstaande wiskundige bewerkingen. Bespreek de wiskundige bewerkingen die je niet begrijpt.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a = 2.5\n",
+    "b = 1.5\n",
+    "c = 3\n",
+    "d = 2\n",
+    "e = 4j\n",
+    "\n",
+    "print(a+b)\n",
+    "print(a*c)\n",
+    "print(c**d)\n",
+    "print(a+b/d)\n",
+    "print(c%d)\n",
+    "print(int(a)+int(b))\n",
+    "print(int(a+b))\n",
+    "print(d+e)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Een data-type die we nog niet hebben gezien maar veel gebruikt wordt is de lijst. In een lijst kunnen we meer informatie (variabelen) opslaan. Die variabelen kunnen dan ook weer van verschillende type zijn.\n",
+    "\n",
+    "```{exercise}\n",
+    "Bekijk de onderste lijst. Welke typen herken je? Controleer door de cell te runnen.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Person_1 = ['Feek','Pols','Lorentzweg',1,'Delft']\n",
+    "print(Person_1)\n",
+    "print(type(Person_1), type(Person_1[0]), type(Person_1[3]))\n",
+    "\n",
+    "# Jouw aanpassing\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```{exercise}\n",
+    "Er is een typefout geslopen in de voornaam van Person_1. Schrijf op regel 6 de code die deze fout herstelt (de persoon heet Freek).\n",
+    "```\n",
+    "\n",
+    "```{exercise}\n",
+    "Kijk naar onderstaande code, wat verwacht je dat er geprint wordt?\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a = [0,2,3]\n",
+    "print(a*2)\n",
+    "print(a[1]*2)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Numpy basics\n",
+    "\n",
+    "Om alles zelf te programmeren, is een enorme klus. We kunnen gelukkig veelal gebruik maken van code van anderen, opgeslagen in zogenaamde libraries. Een veel gebruikte library is NumPy (Numerical Python). Deze library biedt ondersteuning voor m.n. arrays (serie van getallen) en biedt een verzameling wiskundige functies om efficient met verschillende datastructuren te werken. \n",
+    "\n",
+    "In de vorige opdracht verwachte je misschien dat $a \\cdot 2$ een lijst met de waarden **[0 4 6]** zou opleveren. Echter, de inhoud van lijst werd 2x geprint. Om welk de gewenste berekening te maken, kunnen we werken met numpy arrays. Daartoe moeten we eerst de numpy library inladen. \n",
+    "\n",
+    "<div style=\"width:75%; margin:0 auto;\">\n",
+    "    <iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/xECXZ3tyONo\" title=\"Learn NUMPY in 5 minutes - BEST Python Library!\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+    "</div>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "We definiëren nu een numpy array en doen de eerdere berekening:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a = np.array([0, 2, 3])\n",
+    "print(a*2)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Stel nu dat we een rij getallen willen maken van 0 tot 100 met stappen van 1, gaan we dan alle getallen opschrijven? Zeker niet, we kunnen ingebouwde numpy functies gebruiken:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "array_1 = np.linspace(0,100,51)\n",
+    "print(array_1)\n",
+    "array_2 = np.arange(0,101,1)\n",
+    "print(array_2)  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "np.linspace(0,100,51) maakt een rij aan die start bij 0, eindigt bij 100 waarbij die ruimte verdeeld wordt over 51 stukjes. \n",
+    "\n",
+    "np.arange(0,101,1) maakt een rij aan die start bij 0, eindigt bij 100 met stapjes met een stapgrootte van 1.\n",
+    "\n",
+    "\n",
+    "Omdat de computer begint te tellen met 0, is het verstandig om altijd even te kijken naar de rij die je gemaakt hebt om te controleren of de stapgrootte overeenkomt met wat je wilt.\n",
+    "\n",
+    "```{exercise}\n",
+    "1) Maak een array van 0 t/m 100 met alleen de even getallen.\n",
+    "2) Maak een array van 100 t/m 1, dus [100, 99, .., 1]\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Jouw code\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Op de website van Numpy vind je [documentatie](https://numpy.org/doc/stable/index.html) over alle mogelijke functies, dat zijn er nogal wat! Het is goed om bij vragen de documentatie te raadplegen. Hieronder een exercise om daar eens naar te kijken.\n",
+    "\n",
+    "```{exercise}\n",
+    "Bereken van de onderstaande array de gemiddelde waarde en de standaard deviatie met behulp van de numpy functie.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "exercise_array = np.random.uniform(-10,10,100)\n",
+    "# Jouw code"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```{exercise}\n",
+    "Hieronder staan twee numpy arrays, de een met even getallen, de ander met oneven getallen. Voeg de twee arrays samen en sorteer ze zodat je een array krijgt met de getallen 0 t/m 100. Gebruik de numpy functie concatenate en sort.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "even = np.arange(0,101,2)\n",
+    "oneven = np.arange(1,101,2)\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```{exercise}\n",
+    "Nu willen we de functie $f(x)=a \\cdot x^2$ bekijken, met $a =2.5$ en de waarden $x = [0,3,6,9,12]$. Maak de bijbehorende code daarvoor.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Jouw code\n",
+    "x =\n",
+    "a =\n",
+    "f =  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Een array uitbreiden\n",
+    "\n",
+    "Het kunnen bewerken van arrays is een van de belangrijkste handelingen, daarvoor kennen we verschillende technieken:\n",
+    "\n",
+    "```{figure} methods.jpg\n",
+    "---\n",
+    "width: 50%\n",
+    "name: fig_methods\n",
+    "---\n",
+    "Methoden om arrays te bewerken visueel uitgelegd\n",
+    "```\n",
+    "\n",
+    "**slicen**\n",
+    "\n",
+    "Met slicen kun je een deel van een array selecteren op basis van indexen. Net als bij Python-lijsten kun je gebruik maken van de notatie [start:stop:step].\n",
+    "\n",
+    "```{code} python\n",
+    "arr = np.array([0, 1, 2, 3, 4, 5])\n",
+    "print(arr[1:4])  # Output: [1 2 3]\n",
+    "print(arr[::2])  # Output: [0 2 4]\n",
+    "```\n",
+    "\n",
+    "**delete**\n",
+    "\n",
+    "Met np.delete() kun je specifieke elementen of rijen/kolommen uit een array verwijderen. \n",
+    "\n",
+    "```{code} python\n",
+    "arr = np.array([1, 2, 3, 4, 5])\n",
+    "new_arr = np.delete(arr, 2)  # Verwijder element op index 2\n",
+    "print(new_arr)  # Output: [1 2 4 5]\n",
+    "```\n",
+    "\n",
+    "**append**\n",
+    "\n",
+    "Met np.append() kun je elementen aan een array toevoegen. Dit resulteert ook in een nieuwe array, omdat arrays een vaste grootte hebben.\n",
+    "\n",
+    "```{code} python\n",
+    "arr = np.array([1, 2, 3])\n",
+    "new_arr = np.append(arr, [4, 5])\n",
+    "print(new_arr)  # Output: [1 2 3 4 5]\n",
+    "```\n",
+    "\n",
+    "**concatenate**\n",
+    "\n",
+    "Met np.concatenate() kun je twee of meer arrays samenvoegen langs een bepaalde as.\n",
+    "\n",
+    "```{code} python\n",
+    "arr1 = np.array([1, 2, 3])\n",
+    "arr2 = np.array([4, 5, 6])\n",
+    "result = np.concatenate((arr1, arr2))\n",
+    "print(result)  # Output: [1 2 3 4 5 6]\n",
+    "```\n",
+    "\n",
+    "```{exercise}\n",
+    "Je hebt de volgende array:\n",
+    "\n",
+    "**arr = np.array([10, 20, 30, 40, 50, 60, 70, 80])**\n",
+    "\n",
+    "1.  Selecteer de elementen 30, 40, 50 uit de array en sla ze op in een nieuwe variabele genaamd subset1.\n",
+    "2.  Selecteer alle oneven indexen uit de array en sla ze op in subset2.\n",
+    "3.  Selecteer de array in omgekeerde volgorde (van 80 naar 10).\n",
+    "\n",
+    "Controleer je antwoorden door de variabelen te printen.\n",
+    "```\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Jouw code\n",
+    "arr = np.array([10, 20, 30, 40, 50, 60, 70, 80])"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```{exercise}\n",
+    "Gegeven de array:\n",
+    "\n",
+    "**arr1 = np.array([1, 2, 3, 4])**\n",
+    "\n",
+    "1.  Voeg de elementen 5, 6, 7 toe aan arr1 en sla het resultaat op in een nieuwe array extended_arr.\n",
+    "2.  Maak een nieuwe array arr2 = np.array([8, 9, 10]) en concateneer deze met arr1 tot een enkele array merged_arr.\n",
+    "3.  Voeg het getal 0 aan het begin van de array arr1 toe.\n",
+    "\n",
+    "Print alle resultaten en controleer je antwoorden.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# jouw code\n",
+    "arr1 = np.array([1, 2, 3, 4])"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Plotten\n",
+    "Nu we de basis van werken met Python en numpy arrays kennen, kunnen we kijken naar grafieken. Daarvoor maken we gebruik van de library [matplotlib](https://matplotlib.org/). Als je code hierboven goed is gegaan, staat hieronder de bijbehorende plot (na het runnen van de cel).\n",
+    "\n",
+    "<div style=\"width:75%; margin:0 auto;\">\n",
+    "    <iframe width=\"600\" height=\"450\" src=\"https://www.youtube.com/embed/qErBw-R2Ybk\" title=\"Python - Matplotlib Tutorial for Beginners\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+    "</div>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import matplotlib.pyplot as plt\n",
+    "\n",
+    "plt.figure()\n",
+    "plt.xlabel('$x$')\n",
+    "plt.ylabel('$f(x)$') \n",
+    "\n",
+    "plt.plot(x,f, 'k.',label=f'f(x)=%.1f*x^2' %a)\n",
+    "   \n",
+    "plt.grid()\n",
+    "plt.legend()\n",
+    "plt.xlim(0,15)\n",
+    "plt.ylim(0,max(f)+1)\n",
+    "plt.show()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```{exercise}\n",
+    "Bekijk de code hierboven en leg uit wat elke coderegel doet. Verbeter de grafiek (layout).\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "```{exercise}\n",
+    "Plot de functie $f(x)=2 \\cdot sin(4x)$ op het domein $[0,2\\pi]$.\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Jouw code"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Goede gewoonten\n",
+    "\n",
+    "Tot nu toe zijn we bezig geweest zonder ons druk te maken over de naamgeving van onze variabelen of onze code te voorzien van uitleg, zogenaamde meta-data. Het is een goede gewoonte om daar wel zorg aan te besteden, het de lezer - maar ook jezelf - makkelijk te maken door functies en variabelen zo te noemen dat ze makkelijk leesbaar zijn. Stukke code die lastiger te begrijpen zijn kun je voorzien van commentaar. Een \\# kun je gebruiken om commentaar toe te voegen.\n",
+    "\n",
+    "```{exercise}\n",
+    "Lees de code in beide cellen. Welke code is makkelijker te volgen?\n",
+    "```"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "8\n"
+     ]
+    }
+   ],
+   "source": [
+    "a = 5\n",
+    "b = 3\n",
+    "\n",
+    "def s(a,b):\n",
+    "    s = a+b\n",
+    "    return print(s)\n",
+    "\n",
+    "s(a,b)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "8\n"
+     ]
+    }
+   ],
+   "source": [
+    "# code om de som van twee getallen te berekenen\n",
+    "getal_1 = 5\n",
+    "getal_2 = 3\n",
+    "\n",
+    "# functie om de som van twee getallen te berekenen\n",
+    "def som(getal1,getal2):\n",
+    "    return getal1 + getal2\n",
+    "\n",
+    "print(som(getal_1,getal_2))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "base",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.14"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
+
