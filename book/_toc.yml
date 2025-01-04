@@ -25,6 +25,7 @@ parts:
     numbered: true
     chapters:    
     - file: python.md
+    - file: python/programma.md
       sections:
       - file: python/programma.md
       - file: python/python_basics.ipynb
