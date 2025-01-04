@@ -26,10 +26,10 @@ parts:
     chapters:    
     - file: python.md
       sections:
-      - file: Python/Programma.md
-      - file: Python/Python_basics.ipynb
-      - file: Python/Python_functies.ipynb
-      - file: Python/Python_input.ipynb
+      - file: Python/programma.md
+      - file: Python/python_basics.ipynb
+      - file: Python/python_functies.ipynb
+      - file: Python/python_input.ipynb
 
   - caption: Oefeningen
     numbered: true
