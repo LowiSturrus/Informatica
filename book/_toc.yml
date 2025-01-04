@@ -27,6 +27,7 @@ parts:
     - file: python.md
       sections:
       - file: Python/programma.md
+      - file: Python/python_basics.ipynb
 
   - caption: Oefeningen
     numbered: true
