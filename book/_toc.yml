@@ -20,6 +20,10 @@ parts:
       - file: changes/referenties.md
       - file: changes/admolitions.md
       - file: changes/literatuurverwijzingen.md
+    
+  - caption: Python
+    numbered: true
+    chapters:    
     - file: python.md
       sections:
       - file: Python_basics.ipynb
