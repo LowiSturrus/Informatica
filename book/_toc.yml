@@ -26,6 +26,7 @@ parts:
     chapters:    
     - file: python.md
     - file: python/programma.md
+    - file: python/python_basics.ipynb
       sections:
       - file: python/programma.md
       - file: python/python_basics.ipynb
