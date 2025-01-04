@@ -25,6 +25,8 @@ parts:
     numbered: true
     chapters:    
     - file: python.md
+      sections:
+      - file: Python/programma.md
 
   - caption: Oefeningen
     numbered: true
