@@ -20,6 +20,16 @@ parts:
       - file: changes/referenties.md
       - file: changes/admolitions.md
       - file: changes/literatuurverwijzingen.md
+    
+  - caption: Python
+    numbered: true
+    chapters:    
+    - file: python.md
+      sections:
+      - file: python/programma.md
+      - file: python/python_basics.ipynb
+      - file: python/python_functies.ipynb
+      - file: python/python_input.ipynb
 
   - caption: Oefeningen
     numbered: true
