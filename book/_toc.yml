@@ -24,14 +24,7 @@ parts:
   - caption: Python
     numbered: true
     chapters:    
-    - file: Python.md
-    - file: Python/programma.md
-    - file: Python/python_basics
-      sections:
-      - file: Python/programma.md
-      - file: Python/python_basics
-      - file: Python/python_functies
-      - file: Python/python_input
+    - file: python.md
 
   - caption: Oefeningen
     numbered: true
