@@ -8,8 +8,8 @@ In deze repository staat een template voor een indeling van een Jupyter Book. Op
 
 ``` {figure} /figures/TUDelft_Logo.png
 ---
-width: 75%
-height: 50%
+width: 15%
+height: 10%
 name: TUDelft_Logo
 ---
 TU Delft
