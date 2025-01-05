@@ -6,7 +6,7 @@ Een Jupyter Book bestaat uit een collectie pagina’s die opgemaakt zijn met sim
 In deze repository staat een template voor een indeling van een Jupyter Book. Opgenomen zijn een logo van Portus Farelcollege, allerlei objecten/Items en een indeling met hoofdstukken (chapters, paragraven (sections) en subparagraven (subsections) die kunnen worden toegevoegd. Dit alles is gebaseerd op het basiscursusmateriaal om te leren werken met Jupyter Books, gemaakt door de TU Delft/Beta-steunpunt.
 
 
-``` {figure} /figures/TUDelft_Logo.JPG
+``` {figure} /figures/TUDelft_Logo.PNG
 ---
 width: 75%
 height: 50%
