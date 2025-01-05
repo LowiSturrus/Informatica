@@ -12,5 +12,4 @@ width: 15%
 height: 10%
 name: TUDelft_Logo
 ---
-TU Delft
 ``` 
