@@ -1,6 +1,17 @@
 (intro)=
-# Welcome to the Template Book
+# Welkom bij het Portus Farelcollege
 
-_This is the first page the student will see when opening the url._
+Voor u ziet u een Jupyter Book met leerlingsmateriaal over Programmeren.
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+ **Portus Farelcollege:**
+ 
+ Kastanjelaan 50 (ingang via schoolplein),
+ 2982 CM Ridderkerk
+ 
+ Postbus 163,
+ 2980 AD Ridderkerk
+ 
+ Telefoon: 0180-411777
+ 
+ E-mail: fc-info@cvo-portus.nl
+
