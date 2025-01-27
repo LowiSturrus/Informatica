@@ -40,7 +40,7 @@ De volgende regel code maakt LED_BUILTIN weer laag (0,0 V). De pin wordt aangest
 
 ```{figure} Figures/pwm.png
 ---
-width: 60%
+width: 80%
 name: fig_pwm
 align: center
 ---
