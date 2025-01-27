@@ -7,7 +7,7 @@ In deze module gaan we aan het werk met de Arduino en leren we de basismogelijkh
 ## Arduino
 De Arduino Uno, zie {numref}`foto {number} <fig_arduino>` is een van de populairste microcontrollers voor hobbyisten, studenten en professionals. Het is een kleine, programmeerbare elektronica-board die je kunt gebruiken om allerlei creatieve projecten te maken, zoals robots, slimme apparaten en sensoren. Een belangrijk kenmerk van de Arduino Uno is de reeks pinnen die beschikbaar zijn voor interactie met andere elektronische componenten.
 
-```{figure} ./Figures/Arduino.jpg
+```{figure} Figures/Arduino.jpg
 ---
 width: 50%
 name: fig_arduino
