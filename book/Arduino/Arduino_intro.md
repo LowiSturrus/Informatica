@@ -154,7 +154,7 @@ De te maken schakeling waarbij de LED aangestuurd wordt met Pin 13.
 
 b) Open het programma en open het script blink via: `bestand/voorbeelden/basis/blink`.
 
-```{figure} ./Figures/Blink.gif
+```{figure} Figures/Blink.gif
 ---
 width: 80%
 name: fig_gif
@@ -166,7 +166,7 @@ Open uit de examples de code blink
 
 c) Controleer het script met het vinkje. Mocht het programma niet werken, dan geeft het onderaan een foutmelding weer (het kan zijn dat je de COM-poort moet toewijzen, dit doe je via hulpmiddelen/poort).
 
-```{figure} ./Figures/COM.gif
+```{figure} Figures/COM.gif
 ---
 width: 80%
 name: fig_COM
@@ -183,7 +183,7 @@ f) Verander het script zodat de LED sneller knippert.
 
 g) Sluit drie verschillende LED lampjes aan, verander het script zodat ze om de beurt aan staan.
 
-```{figure} ./Figures/Verkeerslicht.PNG
+```{figure} Figures/Verkeerslicht.PNG
 ---
 width: 50%
 name: fig_Verkeerslicht
