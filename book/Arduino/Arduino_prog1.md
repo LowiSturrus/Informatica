@@ -38,7 +38,7 @@ void loop() {
 ```
 De volgende regel code maakt LED_BUILTIN weer laag (0,0 V). De pin wordt aangestuurd met een hoog of met een laag signaal. Zit daar nog iets tussen? Ja en nee… De output is altijd 0,0 V of 5,0 V. Maar je kunt de LED wel dimmen door maar een bepaalde tijd de LED aan te zetten. Als de LED snel genoeg knippert zie je niet dat de LED knippert, het lijkt er alleen op dat de LED minder fel brandt. Wanneer je een LED wilt dimmen gebruik je een output met het symbool ~. Dit is een `Puls Width Modulation (PWM)`. De waarde van de PWM zit tussen de 0 (geheel uit) en 255 (geheel aan), zie {numref}`Figuur {number} <fig_pwm>`.
 
-```{figure} Figures/pwm.ai
+```{figure} Figures/pwm.png
 ---
 width: 60%
 name: fig_pwm
