@@ -7,7 +7,7 @@ In deze module gaan we aan het werk met de Arduino en leren we de basismogelijkh
 ## Arduino
 De Arduino Uno, zie {numref}`foto {number} <fig_arduino>` is een van de populairste microcontrollers voor hobbyisten, studenten en professionals. Het is een kleine, programmeerbare elektronica-board die je kunt gebruiken om allerlei creatieve projecten te maken, zoals robots, slimme apparaten en sensoren. Een belangrijk kenmerk van de Arduino Uno is de reeks pinnen die beschikbaar zijn voor interactie met andere elektronische componenten.
 
-```{figure} Figures/Arduino.jpg
+```{figure} ./Figures/Arduino.jpg
 ---
 width: 50%
 name: fig_arduino
@@ -32,7 +32,7 @@ De Arduino Uno heeft verschillende soorten pinnen, elk met een specifieke functi
 ## Breadboard
 Het breadboard heeft aan beide zijdes twee kolommen die verbonden worden met de voeding (+ en -). De + kant sluit je aan op de 5V uitgang of op een uitvoerpoort van de Arduino. De – kant sluit je aan op de GND (ground) van de Arduino. Alhoewel je de constante output niet altijd gebruikt, is het wel verstandig om deze altijd aan te sluiten.
 
-```{figure} Figures/Breadboard.jpg
+```{figure} ./Figures/Breadboard.jpg
 ---
 width: 100%
 name: fig_breadboard
@@ -81,7 +81,7 @@ Benodigdheden voor deze module:
 
 Een LED is een diode die licht uitzendt als er stroom door de LED gaat. De LED laat stroom maar door in één richting. De lange poot van de LED moet altijd op de + kant aangesloten worden, de korte poot op de – kant, zie {numref}`foto {number} <fig_LED>`.
 
-```{figure} Figures/LED.jpg
+```{figure} ./Figures/LED.jpg
 ---
 width: 10%
 name: fig_LED
@@ -106,7 +106,7 @@ b) Sluit nu de 5V uitgang van de Arduino aan op de **+** kolom en de **GND** (gr
 
 c) Sluit de LED en de weerstand in serie aan, zie  {numref}`tekening {number} <fig_LED_1>`.
 
-```{figure} Figures/LED_1.PNG
+```{figure} ./Figures/LED_1.PNG
 ---
 width: 70%
 name: fig_LED_1
@@ -142,7 +142,7 @@ Om de LED aan te sturen met behulp van code moet je een uitvoerpoort (bijvoorbee
 
 a) Bouw de opstelling die je ziet in {numref}`tekening {number} <fig_LED_2>` en sluit de Arduino aan op de computer. We willen de Arduino aansturen, daarvoor gebruiken we het Arduino programma.
 
-```{figure} Figures/LED_2.PNG
+```{figure} ./Figures/LED_2.PNG
 ---
 width: 50%
 name: fig_LED_2
@@ -154,7 +154,7 @@ De te maken schakeling waarbij de LED aangestuurd wordt met Pin 13.
 
 b) Open het programma en open het script blink via: `bestand/voorbeelden/basis/blink`.
 
-```{figure} Figures/Blink.gif
+```{figure} ./Figures/Blink.gif
 ---
 width: 80%
 name: fig_gif
@@ -166,7 +166,7 @@ Open uit de examples de code blink
 
 c) Controleer het script met het vinkje. Mocht het programma niet werken, dan geeft het onderaan een foutmelding weer (het kan zijn dat je de COM-poort moet toewijzen, dit doe je via hulpmiddelen/poort).
 
-```{figure} Figures/COM.gif
+```{figure} ./Figures/COM.gif
 ---
 width: 80%
 name: fig_COM
@@ -183,7 +183,7 @@ f) Verander het script zodat de LED sneller knippert.
 
 g) Sluit drie verschillende LED lampjes aan, verander het script zodat ze om de beurt aan staan.
 
-```{figure} Figures/Verkeerslicht.PNG
+```{figure} ./Figures/Verkeerslicht.PNG
 ---
 width: 50%
 name: fig_Verkeerslicht
