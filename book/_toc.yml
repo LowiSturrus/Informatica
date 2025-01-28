@@ -31,8 +31,8 @@ parts:
       - file: Python/programma.md
       - file: Python/python_basics.ipynb
       - file: Python/python_functies.ipynb
-      - file: Python/python_invoer.ipynb
       - file: Python/python_subplots.ipynb
+      - file: Python/python_invoer.ipynb
 
   - caption: Arduino
     numbered: true
