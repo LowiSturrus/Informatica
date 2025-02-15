@@ -13,7 +13,7 @@ Deze handleiding bestaat uit een aantal opdrachten die je zelfstandig gaat uitvo
 
 ``` {figure} /figures/Lego_Voorblad.JPG
 ---
-width: 75%
+width: 85%
 height: 50%
 name: fig_lego_voorblad
 ---
