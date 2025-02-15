@@ -24,7 +24,7 @@ parts:
   - caption: LegoMindstorms
     numbered: true
     chapters:
-    - file: lego.md
+    - file: LegoMindstorms.md
       sections:
       - file: LegoMindstorms/Lego_intro.md
 
