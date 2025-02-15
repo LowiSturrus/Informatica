@@ -21,26 +21,14 @@ parts:
       - file: changes/admolitions.md
       - file: changes/literatuurverwijzingen.md
 
-    
   - caption: LegoMindstorms
     numbered: true
     chapters:
     - file: lego.md
       sections:
       - file: LegoMindstorms/Lego_intro.md
-      - file: Arduino/Arduino_prog1.md
-      - file: Arduino/Arduino_prog2.md
-      - file: Arduino/Arduino_elek1.ipynb
-      - file: Arduino/Arduino_prog3.md
-      - file: Arduino/Arduino_elek2.md
-      - file: Arduino/Arduino_prog4.md
-      - file: Arduino/Arduino_sensoren.md
-      - file: Arduino/Arduino_prog5.md
-      - file: Arduino/Arduino_scripts.md
-      - file: Arduino/Arduino_cheatsheet.md
 
-
-- caption: Python
+  - caption: Python
     numbered: true
     chapters:    
     - file: python.md
