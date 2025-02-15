@@ -11,7 +11,6 @@ In de hoofdstukken 3 en 4 leer je alles over het laten rijden van de robot, het 
 Deze handleiding bestaat uit een aantal opdrachten die je zelfstandig gaat uitvoeren. Van een aantal opdrachten moet je het resultaat laten zien aan de docent. Deze opdrachten zijn vetgedrukt. Bij de meeste opdrachten werk je in een duo. Een enkele keer werk je in een grotere groep. Dit wordt dan expliciet aangegeven in de opdracht. 
 ```
 
-
 ``` {figure} /figures/Lego_Voorblad.JPG
 ---
 width: 75%
