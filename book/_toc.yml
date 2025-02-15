@@ -22,7 +22,7 @@ parts:
       - file: changes/literatuurverwijzingen.md
 
     
-  - caption: Lego Mindstorms
+  - caption: LegoMindstorms
     numbered: true
     chapters:
     - file: lego.md
