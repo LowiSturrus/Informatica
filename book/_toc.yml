@@ -13,6 +13,7 @@ parts:
     - file: LegoMindstorms.md
       sections:
       - file: LegoMindstorms/Lego_intro.md
+      - file: LegoMindstorms/Lego_kennismaking.md
 
   - caption: Python
     numbered: true
