@@ -1,4 +1,4 @@
-# Arduino elektronica deel 2
+# Arduino elektronica 2
 
 Een elektromotor kan veel stroom vragen. De Arduino is slecht in het leveren van veel stroom. Om toch grote stroomvragers te voorzien van de benodigde stroom kun je gebruik maken van een externe spanningsbron zoals een batterij. Dan heb je nog wel een transistor nodig zodat je de grootte van de stroom kunt regelen en je de snelheid van draaien van de elektromotor kunt aanpassen.
 
