@@ -6,20 +6,6 @@ parts:
     chapters:
     - file: start.md
     - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-
-  - caption: Uitleg
-    numbered: true
-    chapters:    
-    - file: aanpassingen_via_github.md
-      sections:
-      - file: changes/visueel.md
-      - file: changes/vergelijkingen.md
-      - file: changes/tabellen.md
-      - file: changes/referenties.md
-      - file: changes/admolitions.md
-      - file: changes/literatuurverwijzingen.md
 
   - caption: LegoMindstorms
     numbered: true
@@ -57,19 +43,6 @@ parts:
       - file: Arduino/Arduino_scripts.md
       - file: Arduino/Arduino_cheatsheet.md
 
-  - caption: Oefeningen
-    numbered: true
-    chapters:    
-    - file: exercises
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    
   - caption: Afsluiting
     numbered: true
     chapters:

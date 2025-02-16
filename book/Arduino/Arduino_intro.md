@@ -4,7 +4,7 @@ Leuk dat je aan de slag gaat met Arduino! Wellicht heb je nog geen idee wat een 
 
 In deze module gaan we aan het werk met de Arduino en leren we de basismogelijkheden van een Arduino. Bij het werken met een Arduino heb je twee belangrijke onderdelen: De Arduino en een breadboard. De Arduino is de computer, met invoer en uitvoer mogelijkheden. Op het breadboard sluit je de elektronica aan die aangestuurd wordt door de Arduino.
 
-## Arduino
+# Arduino
 De Arduino Uno, zie {numref}`foto {number} <fig_arduino>` is een van de populairste microcontrollers voor hobbyisten, studenten en professionals. Het is een kleine, programmeerbare elektronica-board die je kunt gebruiken om allerlei creatieve projecten te maken, zoals robots, slimme apparaten en sensoren. Een belangrijk kenmerk van de Arduino Uno is de reeks pinnen die beschikbaar zijn voor interactie met andere elektronische componenten.
 
 ```{figure} Figures/Arduino.jpg
@@ -29,7 +29,7 @@ De Arduino Uno heeft verschillende soorten pinnen, elk met een specifieke functi
 |tx & rx| 1 & 2 | seriële communicatie|
 
 
-## Breadboard
+# Breadboard
 Het breadboard heeft aan beide zijdes twee kolommen die verbonden worden met de voeding (+ en -). De + kant sluit je aan op de 5V uitgang of op een uitvoerpoort van de Arduino. De – kant sluit je aan op de GND (ground) van de Arduino. Alhoewel je de constante output niet altijd gebruikt, is het wel verstandig om deze altijd aan te sluiten.
 
 ```{figure} ./Figures/Breadboard.jpg
@@ -57,7 +57,7 @@ Een open gewerkt breadboard om te tonen hoe de rijen en kolommen verbonden zijn.
 Vaak moet je even aangeven in welke USB-Poort je Arduino zit. Dit doe je door in het programma te gaan naar: Hulpmiddelen/Poort. Daar kun je de juiste USB poort aanklikken, zie {numref}`Figuur {number} <fig_COM>`.
 ```
 
-## Benodigdheden
+# Benodigdheden
 Benodigdheden voor deze module:
 * Arduino
 * Breadboard
@@ -75,7 +75,7 @@ Benodigdheden voor deze module:
 * LCD
 * Actieve piëzo element (buzzer)
 
-## Opdrachten
+# Opdrachten
 
 ````{exercise} Het aansluiten van een LED
 
