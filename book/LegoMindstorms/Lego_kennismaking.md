@@ -18,6 +18,7 @@ align: center
 ---
 De steen
 
+
 **De Gyroscoop**
 In de steen is een gyroscoop verwerkt. Hiermee kan de stand van de steen in drie verschillende richtingen worden bepaald en gecontroleerd.
 
@@ -119,7 +120,7 @@ De steen bevat een gyroscoop met drie opties: Pitch, Roll, Yaw. In figuur 9 zijn
 ```{figure} Figures/Afbeelding_9_Roll_Yaw_Pitch.png
 ---
 width: 100%
-name: Afbeelding_9_Roll_Yaw_Pitch
+name: Afbeelding_9_Roll_Yaw_Pitch.png
 align: center
 ---
 Uitleg drie opties voor meten met de gyroscoop: Roll, Yaw en Pitch
