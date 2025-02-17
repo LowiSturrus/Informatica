@@ -15,9 +15,9 @@ De steen vormt het centrale deel van de robot en wordt ook wel hun of brick geno
 width: 75%
 height: 50%
 name: Afbeelding_1_De_Steen
-align: center
 ---
 De steen
+
 
 **De kleurensensor**
 
@@ -28,9 +28,9 @@ De kleursensor (zie figuur 2) kan meerdere kleuren onderscheiden en vangt gerefl
 width: 75%
 height: 50%
 name: Afbeelding_2_Kleurensensor
-align: center
 ---
 De kleurensensor
+
 
 **De afstandsensor**
 
@@ -40,9 +40,9 @@ Met de afstandmeter (zie figuur 3) kan de afstand tot een voor de sensor aanwezi
 ---
 width: 50%
 name: Afbeelding_3_Afstandssensor
-align: center
 ---
 De Afstandssensor
+
 
 **De krachtsensor**
 
@@ -52,9 +52,9 @@ De krachtsensor (zie figuur 4) krachtsensor meet druk van maximaal 10 Newton (~ 
 ---
 width: 50%
 name: Afbeelding_4_Krachtsensor
-align: center
 ---
-**De krachtsensor**
+De krachtsensor
+
 
 **De motoren**
 
@@ -66,9 +66,9 @@ De motor bevat ook een rotatiesensor, waarmee de snelheid waarmee de snelheid en
 width: 75%
 height: 50%
 name: Afbeelding_5_Motoren
-align: center
 ---
 De kleinere en grotere motor
+
 
 **De Gyroscoop**
 
@@ -80,7 +80,6 @@ De gyroscoop heeft drie opties: Pitch, Roll, Yaw. In figuur 9 zijn deze schemati
 ---
 width: 100%
 name: Afbeelding_6_Roll_Yaw_Pitch.png
-align: center
 ---
 Uitleg drie opties voor meten met de gyroscoop: Roll, Yaw en Pitch
 
@@ -91,9 +90,9 @@ Als je de app hebt geïnstalleerd kun je deze openen. Je krijgt dan het volgende
 ---
 width: 100%
 name: Afbeelding_7_Selectiescherm
-align: center
 ---
 Selectiescherm
+
 
 Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, die uit drie delen bestaat (zie figuur 7).
 
@@ -101,9 +100,9 @@ Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, d
 ---
 width: 100%
 name: Afbeelding_8_Home_pagina
-align: center
 ---
 Home-pagina
+
 
 Het bovenste deel bestaat uit een aantal kennismakings-opdrachten, het middelste deel geeft een overzicht van de projecten die je na verloop van tijd hebt gemaakt en in het onderste deel zijn een aantal lesplannen opgenomen.
 
@@ -115,7 +114,6 @@ Klik vervolgens op de Start-knop om in het scherm met oefenactiviteiten te komen
 ---
 width: 100%
 name: Afbeelding_9_Oefenactiviteiten
-align: center
 ---
 Oefenactiviteiten
 
@@ -140,7 +138,6 @@ Het maken van een programma gebeurt in het programma-venster (zie figuur 10).
 width: 75%
 height: 50%
 name: Afbeelding_10_Programma_venster
-align: center
 ---
 Programma-venster
 
@@ -156,7 +153,7 @@ Het programma-venster bestaat uit de volgende onderdelen:
 
 ```{figure} Figures/Afbeelding_Start_Stop_knop.png
 ---
-width: 20%
+width: 30%
 name: Afbeelding_Start_Stop_knop
 figclass: margin
 ---
@@ -165,7 +162,7 @@ Knoppen voor starten en stoppen van een run
 
 ```{figure} Figures/Afbeelding_Verbinden.png
 ---
-width: 20%
+width: 30%
 name: Afbeelding_Verbinden
 figclass: margin
 ---
