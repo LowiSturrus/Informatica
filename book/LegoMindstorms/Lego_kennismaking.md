@@ -156,7 +156,7 @@ Het programma-venster bestaat uit de volgende onderdelen:
 
 ```{figure} Figures/Afbeelding_Start_Stop_knop.png
 ---
-width: 30%
+width: 20%
 name: Afbeelding_Start_Stop_knop
 figclass: margin
 ---
@@ -165,7 +165,7 @@ Knoppen voor starten en stoppen van een run
 
 ```{figure} Figures/Afbeelding_Verbinden.png
 ---
-width: 30%
+width: 20%
 name: Afbeelding_Verbinden
 figclass: margin
 ---
