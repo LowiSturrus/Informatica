@@ -17,6 +17,8 @@ height: 50%
 name: Afbeelding_1_De_Steen
 ---
 De steen
+``` 
+
 
 De steen bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
 
@@ -31,6 +33,7 @@ height: 50%
 name: Afbeelding_2_Kleurensensor
 ---
 De kleurensensor
+``` 
 
 
 **De afstandsensor**
@@ -43,6 +46,7 @@ width: 50%
 name: Afbeelding_3_Afstandssensor
 ---
 De Afstandssensor
+``` 
 
 
 **De krachtsensor**
@@ -55,6 +59,7 @@ width: 50%
 name: Afbeelding_4_Krachtsensor
 ---
 De krachtsensor
+``` 
 
 
 **De motoren**
@@ -69,6 +74,7 @@ height: 50%
 name: Afbeelding_5_Motoren
 ---
 De kleinere en grotere motor
+``` 
 
 
 **De Gyroscoop**
@@ -93,7 +99,7 @@ width: 100%
 name: Afbeelding_7_Selectiescherm
 ---
 Selectiescherm
-
+``` 
 
 Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, die uit drie delen bestaat (zie figuur 7).
 
@@ -103,9 +109,11 @@ width: 100%
 name: Afbeelding_8_Home_pagina
 ---
 Home-pagina
+``` 
 
 
 Het bovenste deel bestaat uit een aantal kennismakings-opdrachten, het middelste deel geeft een overzicht van de projecten die je na verloop van tijd hebt gemaakt en in het onderste deel zijn een aantal lesplannen opgenomen.
+
 
 ## Oefenactiviteiten
 
@@ -120,12 +128,13 @@ Oefenactiviteiten
 
 Begin door te klikken op ‘1 De lichtsensor’ en doorloop de stappen van het programma. Na het afronden van een onderdeel wordt automatisch doorgeschakeld naar het volgende onderdeel. Beantwoord tijdens de kennismaking met de verschillende sensoren de volgende vragen. 
 
-````{exercise} Opdracht 1
-Welke kleuren kan de lichtsensor herkennen.
-````
-````{exercise} Opdracht 2
+```{exercise} Opdracht 1
+Welke kleuren kan de lichtsensor herkennen.                                   
+```
+```{exercise} Opdracht 2
 Wat is de grootste afstand die door de afstandssensor kan worden gedetecteerd.
-````
+```
+
 
 ## Schermindeling
 Het maken van een programma gebeurt in het programma-venster (zie figuur 10). 
@@ -164,6 +173,7 @@ figclass: margin
 ---
 Knop voor verbinden van computer met steen
 ```
+
 
 **Woordblokken**
 
