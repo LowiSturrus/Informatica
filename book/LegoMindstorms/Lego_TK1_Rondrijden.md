@@ -4,7 +4,7 @@
 Bouw een oefenrijbasis en maak nauwkeurige en gecontroleerde bewegingen.
  
 ## Oefenrijbasis
-De oefenrijbasis is een basisuitvoering van een Spike-robot (zie figuur 10), waarmee je de komende lessen alle belangrijke bewegingen/activiteiten kunt uitvoeren.
+De oefenrijbasis is een basisuitvoering van een Spike-robot (zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`), waarmee je de komende lessen alle belangrijke bewegingen/activiteiten kunt uitvoeren.
 
 ```{figure} Figures/Afbeelding_11_Oefenrijbasis.png
 ---
@@ -18,17 +18,17 @@ Oefenrijbasis
 De oefenrijbasis zal in de komende oefeningen worden uitgebreid met sensoren. Open het bestand ‘Trainingskamp 1 - Driving-base Rondrijden.pdf’ in het hoofdstuk "Bouwinstructies" en volg de instructies voor het bouwen van de oefenrijbasis.
 
 ## Programmeerinstructies
-Open een nieuw project met woordblokken (zie {numref}`Fig {number} <Afbeelding_7_Selectiescherm>`).
+Open een nieuw project met woordblokken (zie {numref}`Fig {number} <Afbeelding_12_Nieuw_project>`).
 
 ```{figure} Figures/Afbeelding_12_Nieuw_project.png
 ---
-width: 100%
+width: 50%
 name: Afbeelding_12_Nieuw_project
 ---
 Nieuw project
 ``` 
 
-Neem de volgende programmeerstack uit {numref}`Fig {number} <Afbeelding_8_Home_pagina>` over en voer het programma uit.
+Neem de volgende programmeerstack uit {numref}`Fig {number} <Afbeelding_13_Rondrijden>` over en voer het programma uit.
 
 ```{figure} Figures/Afbeelding_13_Rondrijden.png
 ---
@@ -52,18 +52,18 @@ In de programmeerstack van figuur 12 zijn de volgende commando’s opgenomen:
 
 ```{figure} Figures/Afbeelding_14_Commandos_bewegen.png
 ---
-width: 100%
+width: 75%
 name: Afbeelding_14_Commandos_bewegen
 ---
-14_Commando's uit programmeerstack
+Commando's uit programmeerstack
 ``` 
 
 Je gaat onderzoeken wat het verschil is tussen deze commando’s. Open daarvoor een nieuw project en neem de volgende programmeerstack over.
 
-```{figure} Figures/Afbeelding_15_Testen_Bewegen.png
+```{figure} Figures/Afbeelding_15_Testen_bewegen.png
 ---
-width: 100%
-name: Afbeelding_15_Testen_Bewegen
+width: 75%
+name: Afbeelding_15_Testen_bewegen
 ---
 Programmeerstack voor testen commando's
 ``` 
@@ -104,7 +104,7 @@ In het programma zie je twee wacht-commando’s.
 
 ```{figure} Figures/Afbeelding_16_Wachtcommandos.png
 ---
-width: 100%
+width: 75%
 name: Afbeelding_16_Wachtcommandos
 ---
 16_Wachtcommando's
