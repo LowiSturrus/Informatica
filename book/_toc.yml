@@ -14,6 +14,7 @@ parts:
       sections:
       - file: LegoMindstorms/Lego_intro.md
       - file: LegoMindstorms/Lego_kennismaking.md
+      - file: LegoMindstorms/Lego_TK1_Rondrijden.md
 
   - caption: Python
     numbered: true
