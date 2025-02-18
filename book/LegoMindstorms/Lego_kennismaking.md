@@ -21,6 +21,7 @@ De steen
 
 De steen bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
 
+
 **De kleurensensor**
 De kleursensor (zie figuur 2) kan meerdere kleuren onderscheiden en vangt gereflecteerd en omgevingslicht op, van het donker tot fel zonlicht. Daarnaast kan de kleurensensor wit licht uitzenden.
 
