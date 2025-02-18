@@ -8,7 +8,7 @@ De SPIKE Prime set bestaat uit de volgende onderdelen: de steen, de motoren en d
 
 **De Steen**
 
-De steen vormt het centrale deel van de robot en wordt ook wel hun of brick genoemd. In {numref}`Fig {number} <Afbeelding_1_De_Steen> is de steen weergegeven. Het bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
+De steen vormt het centrale deel van de robot en wordt ook wel hun of brick genoemd. In {numref}`Fig {number} <Afbeelding_1_De_Steen>` is de steen weergegeven. Het bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
 
 ```{figure} Figures/Afbeelding_1_De_Steen.png
 ---
@@ -18,6 +18,7 @@ name: Afbeelding_1_De_Steen
 ---
 De steen
 
+De steen bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
 
 **De kleurensensor**
 
@@ -120,14 +121,10 @@ Oefenactiviteiten
 Begin door te klikken op ‘1 De lichtsensor’ en doorloop de stappen van het programma. Na het afronden van een onderdeel wordt automatisch doorgeschakeld naar het volgende onderdeel. Beantwoord tijdens de kennismaking met de verschillende sensoren de volgende vragen. 
 
 ````{exercise} Opdracht 1
-
 Welke kleuren kan de lichtsensor herkennen.
-
 ````
 ````{exercise} Opdracht 2
-
 Wat is de grootste afstand die door de afstandssensor kan worden gedetecteerd.
-
 ````
 
 ## Schermindeling
@@ -136,18 +133,17 @@ Het maken van een programma gebeurt in het programma-venster (zie figuur 10).
 ```{figure} Figures/Afbeelding_10_Programma_venster.png
 ---
 width: 75%
-height: 50%
 name: Afbeelding_10_Programma_venster
 ---
 Programma-venster
-
+```
 
 Het programma-venster bestaat uit de volgende onderdelen:
-- Deelvenster met de categorieën aan woordblokken (Rood kader);
-- Deelvenster met de verschillende woordblokken (Groen kader);
-- Werkvenster, waarin je het programma schrijft (Blauw kader);
-- Stop- en Startknop: hiermee kun het programma op de robot uitvoeren en stoppen;
-- Verbindingsknop: deze knop heeft twee functies:
+* Deelvenster met de categorieën aan woordblokken (Rood kader);
+* Deelvenster met de verschillende woordblokken (Groen kader);
+* Werkvenster, waarin je het programma schrijft (Blauw kader);
+* Stop- en Startknop: hiermee kun het programma op de robot uitvoeren en stoppen;
+* Verbindingsknop: deze knop heeft twee functies:
   - Je kun verbinding maken tussen de app en de steen via bluetooth;
   - Je kunt de waarden aflezen van de sensoren en motoren die zijn aangesloten.
 
@@ -170,6 +166,7 @@ Knop voor verbinden van computer met steen
 ```
 
 **Woordblokken**
+
 Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in figuur 9). Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven, waarin de kenmerkende vorm is te zien:
 - Commando’s zijn de opdrachten die het programma moet uitvoeren;
 - Gebeurtenissen bepalen of en wanneer het programma één of meerdere commando’s moet uitvoeren;
