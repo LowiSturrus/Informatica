@@ -7,6 +7,7 @@ Leer in zes eenvoudige stappen SPIKE Prime te gebruiken.
 De SPIKE Prime set bestaat uit de volgende onderdelen: de steen, de motoren en de sensoren. De verschillende onderdelen worden hieronder beschreven.
 
 **De Steen**
+
 De steen vormt het centrale deel van de robot en wordt ook wel hun of brick genoemd. In {numref}`Fig {number} <Afbeelding_1_De_Steen>` is de steen weergegeven. Het bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
 
 ```{figure} Figures/Afbeelding_1_De_Steen.png
@@ -23,7 +24,8 @@ De steen bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sens
 
 
 **De kleurensensor**
-De kleursensor (zie figuur 2) kan meerdere kleuren onderscheiden en vangt gereflecteerd en omgevingslicht op, van het donker tot fel zonlicht. Daarnaast kan de kleurensensor wit licht uitzenden.
+
+De kleursensor (zie {numref}`Fig {number} <Afbeelding_2_Kleurensensor>`) kan meerdere kleuren onderscheiden en vangt gereflecteerd en omgevingslicht op, van het donker tot fel zonlicht. Daarnaast kan de kleurensensor wit licht uitzenden.
 
 ```{figure} Figures/Afbeelding_2_Kleurensensor.png
 ---
@@ -36,7 +38,8 @@ De kleurensensor
 
 
 **De afstandsensor**
-Met de afstandmeter (zie figuur 3) kan de afstand tot een voor de sensor aanwezig object worden bepaald met een nauwkeurigheid van 1 cm.
+
+Met de afstandmeter (zie {numref}`Fig {number} <Afbeelding_3_Afstandssensor>`) kan de afstand tot een voor de sensor aanwezig object worden bepaald met een nauwkeurigheid van 1 cm.
 
 ```{figure} Figures/Afbeelding_3_Afstandssensor.png
 ---
@@ -48,7 +51,8 @@ De Afstandssensor
 
 
 **De krachtsensor**
-De krachtsensor (zie figuur 4) krachtsensor meet druk van maximaal 10 Newton (~ 1 kg). De sensor kan ook worden gebruikt als tastsensor als hij wordt ingedrukt, vrijgegeven of geraakt.
+
+De krachtsensor (zie {numref}`Fig {number} <Afbeelding_4_Krachtsensor>`) krachtsensor meet druk van maximaal 10 Newton (~ 1 kg). De sensor kan ook worden gebruikt als tastsensor als hij wordt ingedrukt, vrijgegeven of geraakt.
 
 ```{figure} Figures/Afbeelding_4_Krachtsensor.png
 ---
@@ -60,6 +64,7 @@ De krachtsensor
 
 
 **De motoren**
+
 De SPIKE Prime set bestaat uit twee soorten motoren; een kleinere en een grotere. Het enige verschil hiertussen is de kracht die door de motor geleverd kan worden. De grotere motor kan meer kracht leveren. Daardoor is deze geschikter om zwaarte objecten op te tillen. De kleinere motoren worden veelal gebruikt voor het rijden van de robot.
 De motor bevat ook een rotatiesensor, waarmee de snelheid waarmee de snelheid en de positie van de motor kan worden gemeten.
 
@@ -74,9 +79,10 @@ De kleinere en grotere motor
 
 
 **De Gyroscoop**
+
 In de steen is een gyroscoop verwerkt. Hiermee kan de stand van de steen in verschillende richtingen worden bepaald en gecontroleerd.
 
-De gyroscoop heeft drie opties: Pitch, Roll, Yaw. In figuur 9 zijn deze schematisch weergegeven.
+De gyroscoop heeft drie opties: Pitch, Roll, Yaw. In {numref}`Fig {number} <Afbeelding_6_Roll_Yaw_Pitch>` zijn deze schematisch weergegeven.
 
 ```{figure} Figures/Afbeelding_6_Roll_Yaw_Pitch.png
 ---
@@ -88,7 +94,7 @@ Uitleg drie opties voor meten met de gyroscoop: Roll, Yaw en Pitch
 
 
 ## Start app
-Als je de app hebt geïnstalleerd kun je deze openen. Je krijgt dan het volgende scherm te zien (zie figuur 6).
+Als je de app hebt geïnstalleerd kun je deze openen. Je krijgt dan het volgende scherm te zien (zie {numref}`Fig {number} <Afbeelding_7_Selectiescherm>`).
 
 ```{figure} Figures/Afbeelding_7_Selectiescherm.png
 ---
@@ -98,7 +104,7 @@ name: Afbeelding_7_Selectiescherm
 Selectiescherm
 ``` 
 
-Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, die uit drie delen bestaat (zie figuur 7).
+Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, die uit drie delen bestaat (zie {numref}`Fig {number} <Afbeelding_8_Home_pagina>`).
 
 ```{figure} Figures/Afbeelding_8_Home_pagina.png
 ---
@@ -113,7 +119,7 @@ Het bovenste deel (blauwe vlak) bestaat uit een aantal kennismakings-opdrachten,
 
 
 ## Oefenactiviteiten
-Klik in het bovenste deel op de Start-knop om in het scherm met oefenactiviteiten te komen (zie figuur 8).
+Klik in het bovenste deel op de Start-knop om in het scherm met oefenactiviteiten te komen (zie {numref}`Fig {number} <Afbeelding_9_Oefenactiviteiten>`).
 
 ```{figure} Figures/Afbeelding_9_Oefenactiviteiten.png
 ---
@@ -133,7 +139,7 @@ Wat is de grootste afstand die door de afstandssensor kan worden gedetecteerd.
 
 
 ## Schermindeling
-Het maken van een programma gebeurt in het programma-venster (zie figuur 10). 
+Het maken van een programma gebeurt in het programma-venster (zie {numref}`Fig {number} <Afbeelding_10_Programma_venster>`). 
 
 ```{figure} Figures/Afbeelding_10_Programma_venster.png
 ---
@@ -172,7 +178,8 @@ Knop voor verbinden van computer met steen
 
 
 **Woordblokken**
-Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in figuur 9). Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven, waarin de kenmerkende vorm is te zien:
+
+Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in {numref}`Fig {number} <Afbeelding_Woordblokken>`). Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven, waarin de kenmerkende vorm is te zien:
 - Commando’s zijn de opdrachten die het programma moet uitvoeren;
 - Gebeurtenissen bepalen of en wanneer het programma één of meerdere commando’s moet uitvoeren;
 - Variabelen kunnen een bepaalde waarde aannemen. Dit kunnen cijfers zijn, het resultaat van een berekening of vergelijking of een sensorwaarde;
