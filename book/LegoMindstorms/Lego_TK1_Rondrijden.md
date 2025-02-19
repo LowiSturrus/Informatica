@@ -8,8 +8,7 @@ De oefenrijbasis is een basisuitvoering van een Spike-robot (zie {numref}`Fig {n
 
 ```{figure} Figures/Afbeelding_11_Oefenrijbasis.png
 ---
-width: 50%
-height: 50%
+width: 40%
 name: Afbeelding_11_Oefenrijbasis
 ---
 Oefenrijbasis
@@ -32,7 +31,7 @@ Neem de volgende programmeerstack uit {numref}`Fig {number} <Afbeelding_13_Rondr
 
 ```{figure} Figures/Afbeelding_13_Rondrijden.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_13_Rondrijden
 ---
 Programmeerstack 'Rondrijden'
@@ -62,7 +61,7 @@ Je gaat onderzoeken wat het verschil is tussen deze commando’s. Open daarvoor 
 
 ```{figure} Figures/Afbeelding_15_Testen_bewegen.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_15_Testen_bewegen
 ---
 Programmeerstack voor testen commando's

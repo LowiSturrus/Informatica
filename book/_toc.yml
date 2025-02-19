@@ -14,7 +14,7 @@ parts:
     - file: LegoMindstorms/Lego_intro.md
     - file: LegoMindstorms/Lego_kennismaking.md
     - file: LegoMindstorms/Lego_TK1_Rondrijden.md
-    - file: LegoMindstorms/Lego_TK2_Spelen_met_Objecten
+    - file: LegoMindstorms/Lego_TK2_Spelen_met_objecten
 
   - caption: Python
     numbered: true

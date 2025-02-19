@@ -1,7 +1,7 @@
-# Trainingskamp 2: Spelen met objecten
+# Trainingskamp 3: Op lijnen reageren
 
 ## Doel
-Gebruik sensoren om de motoren te besturen en voor interactie met objecten op het wedstrijdveld.
+Schrijf programma’s waarin de kleursensor wordt gebruikt om de rijbasis zelfstandig te maken.
  
 ## Uitgebreide oefenrijbasis
 n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm (zie figuur 16). (zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`).
@@ -21,7 +21,7 @@ Open een nieuw project met woordblokken. Neem de programmeerstack uit {numref}`F
 
 ```{figure} Figures/Afbeelding_18_Spelen_met_objecten.png
 ---
-width: 40%
+width: 50%
 name: Afbeelding_18_Spelen_met_objecten
 ---
 Programmeerstack 'Spelen met objecten'
@@ -56,7 +56,7 @@ Pas het commando aan zodat motor E naar rechts draait over 75 graden en vervang 
 
 ```{figure} Figures/Afbeelding_20_Aanpassing_spelen_met_objecten.png
 ---
-width: 40%
+width: 50%
 name: Afbeelding_20_Aanpassing_spelen_met_objecten
 ---
 Aanpassing programmeerstack 'Spelen met objecten'
@@ -78,7 +78,7 @@ In hoofdstuk 1 heb je geleerd wat pseudocode is. In pseudocode beschrijf je in g
 
 ```{figure} Figures/Afbeelding_21_Pseudocode.png
 ---
-width: 40%
+width: 50%
 name: Afbeelding_21_Pseudocode
 ---
 Een voorbeeld van pseudecode

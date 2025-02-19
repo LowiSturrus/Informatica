@@ -29,8 +29,7 @@ De kleursensor (zie {numref}`Fig {number} <Afbeelding_2_Kleurensensor>`) kan mee
 
 ```{figure} Figures/Afbeelding_2_Kleurensensor.png
 ---
-width: 75%
-height: 50%
+width: 50%
 name: Afbeelding_2_Kleurensensor
 ---
 De kleurensensor
@@ -70,8 +69,7 @@ De motor bevat ook een rotatiesensor, waarmee de snelheid waarmee de snelheid en
 
 ```{figure} Figures/Afbeelding_5_Motoren.png
 ---
-width: 75%
-height: 50%
+width: 60%
 name: Afbeelding_5_Motoren
 ---
 De kleinere en grotere motor
@@ -98,7 +96,7 @@ Als je de app hebt geïnstalleerd kun je deze openen. Je krijgt dan het volgende
 
 ```{figure} Figures/Afbeelding_7_Selectiescherm.png
 ---
-width: 100%
+width: 75%
 name: Afbeelding_7_Selectiescherm
 ---
 Selectiescherm
@@ -108,7 +106,7 @@ Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, d
 
 ```{figure} Figures/Afbeelding_8_Home_pagina.png
 ---
-width: 100%
+width: 75%
 name: Afbeelding_8_Home_pagina
 ---
 Home-pagina
@@ -123,7 +121,7 @@ Klik in het bovenste deel op de Start-knop om in het scherm met oefenactiviteite
 
 ```{figure} Figures/Afbeelding_9_Oefenactiviteiten.png
 ---
-width: 100%
+width: 75%
 name: Afbeelding_9_Oefenactiviteiten
 ---
 Oefenactiviteiten
