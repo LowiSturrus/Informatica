@@ -1,4 +1,4 @@
-# Trainingskamp 1: Rondrijden
+# TK 1: Rondrijden
 
 ## Doel
 Bouw een oefenrijbasis en maak nauwkeurige en gecontroleerde bewegingen.
@@ -8,7 +8,7 @@ De oefenrijbasis is een basisuitvoering van een Spike-robot (zie {numref}`Fig {n
 
 ```{figure} Figures/Afbeelding_11_Oefenrijbasis.png
 ---
-width: 75%
+width: 50%
 height: 50%
 name: Afbeelding_11_Oefenrijbasis
 ---
@@ -22,7 +22,7 @@ Open een nieuw project met woordblokken (zie {numref}`Fig {number} <Afbeelding_1
 
 ```{figure} Figures/Afbeelding_12_Nieuw_project.png
 ---
-width: 50%
+width: 30%
 name: Afbeelding_12_Nieuw_project
 ---
 Nieuw project
@@ -32,7 +32,7 @@ Neem de volgende programmeerstack uit {numref}`Fig {number} <Afbeelding_13_Rondr
 
 ```{figure} Figures/Afbeelding_13_Rondrijden.png
 ---
-width: 100%
+width: 50%
 name: Afbeelding_13_Rondrijden
 ---
 Programmeerstack 'Rondrijden'
@@ -52,7 +52,7 @@ In de programmeerstack van figuur 12 zijn de volgende commando’s opgenomen:
 
 ```{figure} Figures/Afbeelding_14_Commandos_bewegen.png
 ---
-width: 75%
+width: 50%
 name: Afbeelding_14_Commandos_bewegen
 ---
 Commando's uit programmeerstack
@@ -62,7 +62,7 @@ Je gaat onderzoeken wat het verschil is tussen deze commando’s. Open daarvoor 
 
 ```{figure} Figures/Afbeelding_15_Testen_bewegen.png
 ---
-width: 75%
+width: 50%
 name: Afbeelding_15_Testen_bewegen
 ---
 Programmeerstack voor testen commando's
@@ -104,7 +104,7 @@ In het programma zie je twee wacht-commando’s.
 
 ```{figure} Figures/Afbeelding_16_Wachtcommandos.png
 ---
-width: 75%
+width: 50%
 name: Afbeelding_16_Wachtcommandos
 ---
 16_Wachtcommando's
