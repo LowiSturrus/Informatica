@@ -4,111 +4,139 @@
 Schrijf programma’s waarin de kleursensor wordt gebruikt om de rijbasis zelfstandig te maken.
  
 ## Uitgebreide oefenrijbasis
-n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm (zie figuur 16). (zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`).
+In het hoofdstuk 3 heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een lichtsensor.(zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`).
 
-```{figure} Figures/Afbeelding_17_Oefenrijbasis_2.png
+```{figure} Figures/Afbeelding_51_Oefenrijbasis_3.png
 ---
 width: 40%
-name: Afbeelding_17_Oefenrijbasis_2
+name: Afbeelding_51_Oefenrijbasis_3
 ---
-Uitgebreide oefenrijbasis
+Met lichtsensor uitgebreide oefenrijbasis
 ``` 
 
-De bouwinstructies voor de uitbreiding staan in het hoofdstuk "Bouwinstructies". Open het bestand ‘Trainingskamp 1 - Driving-base Rondrijden.pdf’ in het hoofdstuk "Bouwinstructies" en volg de instructies voor het bouwen van de uitgebreide oefenrijbasis. 
+De bouwinstructies voor de uitbreiding staan in het hoofdstuk "Bouwinstructies". Open het bestand ‘Trainingskamp 3 - Driving-base Op lijnen reageren.pdf’ en volg de instructies voor het bouwen van de uitgebreiding. 
 
 ## Programmeerinstructies
-Open een nieuw project met woordblokken. Neem de programmeerstack uit {numref}`Fig {number} <Afbeelding_18_Spelen_met_objecten>` over en voer het programma uit.
+Open een nieuw project met woordblokken. Neem de programmeerstack van {numref}`Fig {number} <Afbeelding_18_Spelen_met_objecten>` over en voer het programma uit.
 
 ```{figure} Figures/Afbeelding_18_Spelen_met_objecten.png
 ---
-width: 50%
-name: Afbeelding_18_Spelen_met_objecten
+width: 40%
+name: Afbeelding_52_Stoppen_bij_een_lijn
 ---
-Programmeerstack 'Spelen met objecten'
+Programmeerstack 'Stoppen bij een lijn'
 ``` 
 
-
-```{exercise} Opdracht 11
+```{exercise} Opdracht 18
 Beschrijf wat er gebeurt als je het programma start.                                   
 ```
-```{exercise} Opdracht 12
-Beschrijf wat er gebeurt als je op de linker knop indrukt.
-```
-```{exercise} Opdracht 13
-Beschrijf wat er gebeurt als je op de rechter knop indrukt.
+
+Het verplaatsen van een robot van een locatie naar een andere locatie is heel belangrijk. De nauwkeurigheid van de beweging blijkt deels afhankelijk van de het programma, maar er zijn ook toevallige invloeden. De toevalligheden moeten zoveel als mogelijk worden voorkomen. Hiervoor bestaan verschillende methoden, zoals het volgen van een lijn of het rijden met behulp van afstandsmeting. De eerste methode kan gebruikt worden als er lijnen op de ondergrond zijn getekend. Dat wordt in de volgende opdrachten uitgelegd. Voor de tweede methode zijn geen hulplijnen nodig, maar dit wordt in een later hoofdstuk behandeld.
+
+
+```{exercise} Opdracht 19
+BOverleg in een groepje van vier leerlingen over de pseudocode voor het volgen van een lijn. Schrijf het resultaat op en laat dit aan de docent zien.                                   
 ```
 
-In de programmeerstack van {numref}`Fig {number} <Afbeelding_18_Spelen_met_objecten>` is het volgende commando opgenomen, waarmee motor E gedurende 1 seconde naar rechts draait.:
+## Uitbreidingen woordblokken
+In de linker kolom van de Lego Spike-app staan de programmeerblokken (commando’s) onderverdeeld in groepen. Bij het openen van een nieuw project worden hier de basisblokken vermeld. Hier kunnen uitbreidingen aan worden toegevoegd. Klik hiervoor linksonder in het scherm op het icoontje.
 
-```{figure} Figures/Afbeelding_19_Laten_lopen.png
+```{figure} Figures/Afbeelding_53_Icoontje.png
+---
+width: 30%
+name: Afbeelding_53_Icoontje
+figclass: margin
+---
+Icoontje opstarten extra programmeerblokken
+```
+
+```{figure} Figures/Afbeelding_54_Extra_programmeerblokken.png
 ---
 width: 50%
-name: Afbeelding_19_Laten_lopen
+name: Afbeelding_54_Extra_programmeerblokken
 ---
-Commando uit programmeerstack
+Scherm met uitbreiding programmeerblokken
+``` 
+
+Vink alle onderdelen aan en druk op het kruisje. Je hebt nu extra woordblokken tot je beschikking. Kijk bijvoorbeeld in de categorie ‘Meer beweging’. Daar tref je het volgende commando:
+
+```{figure} Figures/Afbeelding_55_Percentage_vermogen.png
+---
+width: 50%
+name: Afbeelding_55_Percentage_vermogen
+---
+Commando ‘bewegen starten op %’
 ``` 
 
 
-```{exercise} Opdracht 14
-Pas het commando aan zodat motor E naar rechts draait over 75 graden en vervang het laatste deel van het programma door onderstaande programmeerstack.                                   
-```
+Je gaat onderzoeken wat dit commando doet. Open een nieuw project met woordblokken. Neem de volgende programmeerstack over. voer het programma uit.
 
-
-```{figure} Figures/Afbeelding_20_Aanpassing_spelen_met_objecten.png
+```{figure} Figures/Afbeelding_56_Bewegen_percentage_vermogen.png
 ---
-width: 50%
-name: Afbeelding_20_Aanpassing_spelen_met_objecten
+width: 40%
+name: Afbeelding_56_Bewegen_percentage_vermogen
 ---
-Aanpassing programmeerstack 'Spelen met objecten'
+Programmeerstack ‘beweging starten op % vermogen’
 ``` 
 
-Als je de bouwinstructies voor de uitbreiding van de oefenrijbasis tot het eind hebt uitgevoerd, heb je ook een kubus en een markering gebouwd. Plaats de kubus op circa 5,5 cm voor de markering, plaats de robot op circa 50 cm recht voor de markering en voer het programma uit.
+In het derde commando staan twee waarden.
 
-
-```{exercise} Opdracht 15
-Beschrijf wat er gebeurt.                                   
+```{exercise} Opdracht 20
+Voer het programma drie keer uit met achtereenvolgens de volgende waarden voor het vermogen:
+1. 50 en 50;
+2.  0 en 50;
+3. 50 en 0.
+Beschrijf het verschil dat ontstaat bij het uit voeren van het programma met de verschillende waarden voor het vermogen.  
 ```
 
-## Woordblokcategorieën Motoren en Bewegen
-Het is misschien opgevallen dat er twee categorieën commando’s zijn waarmee de motoren en beweging kan worden gecontroleerd. Voor het bewegen van een robot zijn in het algemeen twee motoren nodig. Bij het rechtdoor rijden draaien beide motoren even snel. Als er een verschil is in de snelheid waarmee de twee motoren, gaat de robot een bocht maken. Om de beweging goed te kunnen controleren is het belangrijk dat de motoren goed op elkaar staan afgesteld. Dat is het eenvoudigst te doen met behulp van de roze commando’s. Een bocht maken kan ook met behulp van de blauwe commando’s, maar dan moeten de twee motoren afzonderlijk op de goede snelheden worden ingesteld en dat kost meer bewerkingen en is dus niet handig. De blauwe commando’s worden daarom voor andere toepassingen gebruikt, namelijk toepassingen waarbij slechts één motor nodig is.  Het optillen van een voorwerp is hiervan een voorbeeld.
+Het commando uit {numref}`Fig {number} <Afbeelding_15_Percentage_vermogen>` wordt gebruikt in het programma voor het volgen van een lijn.
 
+## Vervolg programmeerinstructies
+Je docent heeft met een plaat met een getrokken zwarte lijn gemaakt. De robot gaat naar deze lijn rijden en vervolgens de lijn volgen.
 
-## Pseudocode
-In hoofdstuk 1 heb je geleerd wat pseudocode is. In pseudocode beschrijf je in gewone taal de stappen in je programmeerstack die nodig zijn om de robot bepaalde handelingen te laten uitvoeren. In {numref}`Fig {number} <Afbeelding_21_Pseudocode>` is een voorbeeld gegeven.
+```{exercise} Opdracht 21
+Voeg de volgende programmeerstack aan het programma ‘volgen van een lijn’ en voer het programma uit. Laat het resultaat aan de docent zien.
+```
 
-```{figure} Figures/Afbeelding_21_Pseudocode.png
+```{figure} Figures/Afbeelding_57_Volgen_lijn.png
 ---
 width: 50%
-name: Afbeelding_21_Pseudocode
+name: Afbeelding_57_Volgen_lijn
 ---
-Een voorbeeld van pseudecode
+Programmeerstack 'volgen van een lijn'
+```
+
+Met het programma van {numref}`Fig {number} <Afbeelding_57_Volgen_lijn>` kun je de robot een lijn op de ondergrond laten volgen. De bewegingen zijn echter nogal schokkering; de robot beweegt steeds van links naar rechts en weer terug. Helemaal te voorkomen is dit niet, maar het is wel mogelijk om de bewegingen minder schokkerig te maken. Dit kan op twee manieren worden bereikt:
+* Door het aanpassen van het ontwerp van de robot;
+* Door het aanpassen van het programma.
+
+```{exercise} Opdracht 22
+Maak in hetzelfde groepje als bij opdracht 20 een aanpassing van het ontwerp van de robot, waardoor deze minder schokkerig gaat bewegen. Doorloop hierbij de volgende stappen:
+* Ieder groepslid bedenkt een eigen oplossing (5 minuten);
+* Ieder groepslid legt zijn oplossing uit aan de andere leden van de groep;
+* Bespreek vervolgens de bedachte oplossingen;
+* Kies de beste oplossing;
+* Pas de gekozen oplossing toe;
+* Controleer of de robot minder schokkerig beweegt.
+* Laat het resultaat aan de docent zien.
+``` 
+
+In de vorige opdracht heb je de werking van de robot verbeterd door het aanpassen van het ontwerp. Je kunt een verbetering ook bereiken door het aanpassen van het programma door gebruik te maken van de volgende **operator**:
+
+```{figure} Figures/Afbeelding_58_Operator_reflectie.png
+---
+width: 50%
+name: Afbeelding_58_Operator_reflectie
+---
+Woordblok voor operator ‘reflectie’
+```
+
+```{exercise} Opdracht 23
+Vraag de docent om de bovenstaande operator uit te leggen en gebruik deze operator om het programma van {numref}`Fig {number} <Afbeelding_57_Volgen_lijn>` aan te passen om de robot efficiënter te laten bewegen. Laat het resultaat aan de docent zien.
 ``` 
 
 
-```{exercise} Opdracht 16: Oefenen met pseudocode
-Creëer een programmeerstack naar aanleiding van onderstaande pseudocode.
-* Een hart laten oplichten;
-* Als ik de kleur paars zie:
-  - Een glimlach laten oplichten;
-  - Motor A 30 graden laten draaien;
-  - Motor A -60 graden laten draaien;
-  - Motor A 60 graden laten draaien;
-  - Motor A -30 graden laten draaien;
-  - Een geluid afspelen;
-  - Een hart laten oplichten
-Controleer met je robot of je programma goed werkt. Laat het resultaat aan de docent zien.  
-```
 
-```{exercise} Opdracht 17: Estafette 
-Je gaat nu een estafetteprogramma creëren. Hierbij gelden de volgende regels:
-1.	Stel een afstand van 30 cm vast.
-2.	Breek de kubus af in vier estafettestokjes met verschillende kleuren.
-3.	Programmeer jouw oefenrijbasis zo dat deze vanaf de markering alle gekleurde stokjes om de beurt gaat ophalen.
-4.	Haal elk stokje uit de oefenrijbasis zodra deze is afgeleverd.
-```
-```{exercise} Opdracht 17a
-Schrijf de pseudocode voor het estafetteprogramma en laat dit aan de docent zien.
-```
-```{exercise} Opdracht 17b
+
 Vertaal de pseudocode in een estafetteprogramma, voer dit uit en laat het resultaat zien aan de docent.
 ```

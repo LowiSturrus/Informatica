@@ -4,17 +4,17 @@
 Gebruik sensoren om de motoren te besturen en voor interactie met objecten op het wedstrijdveld.
  
 ## Uitgebreide oefenrijbasis
-n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm (zie figuur 16). (zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`).
+n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm. (zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`).
 
 ```{figure} Figures/Afbeelding_17_Oefenrijbasis_2.png
 ---
 width: 40%
 name: Afbeelding_17_Oefenrijbasis_2
 ---
-Uitgebreide oefenrijbasis
+Uitgebreide oefenrijbasis met afstandssensor en bewegeegbare arm
 ``` 
 
-De bouwinstructies voor de uitbreiding staan in het hoofdstuk "Bouwinstructies". Open het bestand ‘Trainingskamp 1 - Driving-base Rondrijden.pdf’ in het hoofdstuk "Bouwinstructies" en volg de instructies voor het bouwen van de uitgebreide oefenrijbasis. 
+De bouwinstructies voor de uitbreiding staan in het hoofdstuk "Bouwinstructies". Open het bestand ‘Trainingskamp 2 - Driving-base Spelen met objectenen.pdf’ en volg de instructies voor het bouwen van de uitgebreide oefenrijbasis. 
 
 ## Programmeerinstructies
 Open een nieuw project met woordblokken. Neem de programmeerstack uit {numref}`Fig {number} <Afbeelding_18_Spelen_met_objecten>` over en voer het programma uit.
@@ -26,7 +26,6 @@ name: Afbeelding_18_Spelen_met_objecten
 ---
 Programmeerstack 'Spelen met objecten'
 ``` 
-
 
 ```{exercise} Opdracht 11
 Beschrijf wat er gebeurt als je het programma start.                                   
@@ -48,11 +47,9 @@ name: Afbeelding_19_Laten_lopen
 Commando uit programmeerstack
 ``` 
 
-
 ```{exercise} Opdracht 14
 Pas het commando aan zodat motor E naar rechts draait over 75 graden en vervang het laatste deel van het programma door onderstaande programmeerstack.                                   
 ```
-
 
 ```{figure} Figures/Afbeelding_20_Aanpassing_spelen_met_objecten.png
 ---
@@ -83,7 +80,6 @@ name: Afbeelding_21_Pseudocode
 ---
 Een voorbeeld van pseudecode
 ``` 
-
 
 ```{exercise} Opdracht 16: Oefenen met pseudocode
 Creëer een programmeerstack naar aanleiding van onderstaande pseudocode.
