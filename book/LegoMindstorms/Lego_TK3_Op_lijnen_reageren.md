@@ -1,4 +1,4 @@
-# Trainingskamp 3: Op lijnen reageren
+# TK 3: Op lijnen reageren
 
 ## Doel
 Schrijf programma’s waarin de kleursensor wordt gebruikt om de rijbasis zelfstandig te maken.

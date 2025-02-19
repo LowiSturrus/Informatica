@@ -1,10 +1,10 @@
-# Trainingskamp 2: Spelen met objecten
+# TK 2: Spelen met objecten
 
 ## Doel
 Gebruik sensoren om de motoren te besturen en voor interactie met objecten op het wedstrijdveld.
  
 ## Uitgebreide oefenrijbasis
-n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm. (zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`).
+n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm. (zie {numref}`Fig {number} <Afbeelding_17_Oefenrijbasis_2>`).
 
 ```{figure} Figures/Afbeelding_17_Oefenrijbasis_2.png
 ---
