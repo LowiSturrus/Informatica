@@ -39,20 +39,19 @@ BOverleg in een groepje van vier leerlingen over de pseudocode voor het volgen v
 ```
 
 ## Uitbreidingen woordblokken
-In de linker kolom van de Lego Spike-app staan de programmeerblokken (commando’s) onderverdeeld in groepen. Bij het openen van een nieuw project worden hier de basisblokken vermeld. Hier kunnen uitbreidingen aan worden toegevoegd. Klik hiervoor linksonder in het scherm op het icoontje.
-
 ```{figure} Figures/Afbeelding_53_Icoontje.png
 ---
-width: 30%
+width: 25%
 name: Afbeelding_53_Icoontje
 figclass: margin
 ---
 Icoontje opstarten extra programmeerblokken
 ```
+In de linker kolom van de Lego Spike-app staan de programmeerblokken (commando’s) onderverdeeld in groepen. Bij het openen van een nieuw project worden hier de basisblokken vermeld. Hier kunnen uitbreidingen aan worden toegevoegd. Klik hiervoor linksonder in het scherm op het icoontje.
 
 ```{figure} Figures/Afbeelding_54_Extra_programmeerblokken.png
 ---
-width: 50%
+width: 75%
 name: Afbeelding_54_Extra_programmeerblokken
 ---
 Scherm met uitbreiding programmeerblokken
@@ -62,7 +61,7 @@ Vink alle onderdelen aan en druk op het kruisje. Je hebt nu extra woordblokken t
 
 ```{figure} Figures/Afbeelding_55_Percentage_vermogen.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_55_Percentage_vermogen
 ---
 Commando ‘bewegen starten op %’
@@ -100,7 +99,7 @@ Voeg de volgende programmeerstack aan het programma ‘volgen van een lijn’ en
 
 ```{figure} Figures/Afbeelding_57_Volgen_lijn.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_57_Volgen_lijn
 ---
 Programmeerstack 'volgen van een lijn'
@@ -125,7 +124,7 @@ In de vorige opdracht heb je de werking van de robot verbeterd door het aanpasse
 
 ```{figure} Figures/Afbeelding_58_Operator_reflectie.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_58_Operator_reflectie
 ---
 Woordblok voor operator ‘reflectie’

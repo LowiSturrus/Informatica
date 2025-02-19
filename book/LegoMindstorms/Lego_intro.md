@@ -1,5 +1,4 @@
 # Lego Mindstorms intro
-
 LEGO® Education SPIKE™ Prime is dé tool waarmee je kunt leren programmeren. SPIKE Prime is een combinatie van LEGO bouwelementen, gebruiksvriendelijke hardware en een intuïtieve, programmeertaal: Scratch.
 
 De programmeerbare steen (hub of brick) heeft 6 in-/uitvoerpoorten, een 5x5-lichtmatrix, bluetooth-connectiviteit, een luidspreker, een 6-assige gyro, en een oplaadbare batterij. De SPIKE Prime Set bevat daarnaast zeer nauwkeurige motoren en sensoren waarmee je, in combinatie met allerlei kleurige LEGO bouwelementen, leuke robots, dynamische apparaten en andere interactieve modellen kunt ontwerpen en bouwen. Dankzij de vele aansluitingspunten op de hub, de motoren, de sensoren en de nieuwe, grote bouwelementen, verlies je minder tijd met bouwen, en hebben je meer tijd om te leren.

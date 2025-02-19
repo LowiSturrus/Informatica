@@ -147,15 +147,6 @@ name: Afbeelding_10_Programma_venster
 Programma-venster
 ```
 
-Het programma-venster bestaat uit de volgende onderdelen:
-* Deelvenster met de categorieën aan woordblokken (Rood kader);
-* Deelvenster met de verschillende woordblokken (Groen kader);
-* Werkvenster, waarin je het programma schrijft (Blauw kader);
-* Stop- en Startknop: hiermee kun het programma op de robot uitvoeren en stoppen;
-* Verbindingsknop: deze knop heeft twee functies:
-  - Je kun verbinding maken tussen de app en de steen via bluetooth;
-  - Je kunt de waarden aflezen van de sensoren en motoren die zijn aangesloten.
-
 ```{figure} Figures/Afbeelding_Start_Stop_knop.png
 ---
 width: 30%
@@ -174,14 +165,17 @@ figclass: margin
 Knop voor verbinden van computer met steen
 ```
 
+Het programma-venster bestaat uit de volgende onderdelen:
+* Deelvenster met de categorieën aan woordblokken (Rood kader);
+* Deelvenster met de verschillende woordblokken (Groen kader);
+* Werkvenster, waarin je het programma schrijft (Blauw kader);
+* Stop- en Startknop: hiermee kun het programma op de robot uitvoeren en stoppen;
+* Verbindingsknop: deze knop heeft twee functies:
+  - Je kun verbinding maken tussen de app en de steen via bluetooth;
+  - Je kunt de waarden aflezen van de sensoren en motoren die zijn aangesloten.
+
 
 **Woordblokken**
-
-Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in {numref}`Fig {number} <Afbeelding_Woordblokken>`). Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven, waarin de kenmerkende vorm is te zien:
-- Commando’s zijn de opdrachten die het programma moet uitvoeren;
-- Gebeurtenissen bepalen of en wanneer het programma één of meerdere commando’s moet uitvoeren;
-- Variabelen kunnen een bepaalde waarde aannemen. Dit kunnen cijfers zijn, het resultaat van een berekening of vergelijking of een sensorwaarde;
-- Met Operatoren kunnen de waarden van variabelen worden vergeleken met een opgegeven waarde en er kunnen berekeningen met variabelen worden uitgevoerd. Het resultaat kan gebruikt worden in commando’s, gebeurtenissen en variabelen. 
 
 ```{figure} Figures/Afbeelding_Woordblokken.png
 ---
@@ -191,3 +185,11 @@ figclass: margin
 ---
 Voorbeelden van woordblokken
 ```
+
+Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in {numref}`Fig {number} <Afbeelding_10_Programma_venster>`. Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven in {numref}`Fig {number} <Afbeelding_Woordblokken>`), waarin de kenmerkende vorm is te zien:
+- Commando’s zijn de opdrachten die het programma moet uitvoeren;
+- Gebeurtenissen bepalen of en wanneer het programma één of meerdere commando’s moet uitvoeren;
+- Variabelen kunnen een bepaalde waarde aannemen. Dit kunnen cijfers zijn, het resultaat van een berekening of vergelijking of een sensorwaarde;
+- Met Operatoren kunnen de waarden van variabelen worden vergeleken met een opgegeven waarde en er kunnen berekeningen met variabelen worden uitgevoerd. Het resultaat kan gebruikt worden in commando’s, gebeurtenissen en variabelen. 
+
+
