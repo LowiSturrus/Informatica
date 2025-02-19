@@ -7,14 +7,14 @@ De basis van Mindstorms is een centrale besturingsmodule waarmee zelfgebouwde cr
 3.	Python
 In de Jupyter Book wordt ingegaan op de methode met behulp van Scratch.
 
-```{figure} LegoMindstorms/Figures/Lego_Logo.png
+```{figure} /LegoMindstorms/Figures/Lego_Logo.png
 ---
 width: 40%
 name: Lego_Logo
 ---
 ``` 
 
-```{figure} LegoMindstorms/Figures/Lego_Education_Logo.png
+```{figure} /LegoMindstorms/Figures/Lego_Education_Logo.png
 ---
 width: 40%
 name: Lego_EducationLogo
