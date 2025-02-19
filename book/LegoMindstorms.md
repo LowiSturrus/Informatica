@@ -16,7 +16,7 @@ name: Lego_Logo
 
 ```{figure} /LegoMindstorms/Figures/Lego_Education_Logo.png
 ---
-width: 40%
+width: 60%
 name: Lego_EducationLogo
 ---
 ``` 
