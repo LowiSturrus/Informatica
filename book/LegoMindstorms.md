@@ -6,3 +6,10 @@ De basis van Mindstorms is een centrale besturingsmodule waarmee zelfgebouwde cr
 2.	Woordblokken = Scratch
 3.	Python
 In de Jupyter Book wordt ingegaan op de methode met behulp van Scratch.
+
+```{figure} Figures/Lego_Logo.jpeg
+---
+width: 40%
+name: Lego_Logo.jpeg
+---
+``` 
