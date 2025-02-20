@@ -67,10 +67,10 @@ De krachtsensor
 De SPIKE Prime set bestaat uit twee soorten motoren; een kleinere en een grotere. Het enige verschil hiertussen is de kracht die door de motor geleverd kan worden. De grotere motor kan meer kracht leveren. Daardoor is deze geschikter om zwaarte objecten op te tillen. De kleinere motoren worden veelal gebruikt voor het rijden van de robot.
 De motor bevat ook een rotatiesensor, waarmee de snelheid waarmee de snelheid en de positie van de motor kan worden gemeten.
 
-```{figure} Figures/Afbeelding_5_Motoren.png
+```{figure} Figures/Afbeelding_35_Motoren.png
 ---
 width: 60%
-name: Afbeelding_5_Motoren
+name: Afbeelding_35_Motoren
 ---
 De kleinere en grotere motor
 ``` 
@@ -85,7 +85,7 @@ De gyroscoop heeft drie opties: Pitch, Roll, Yaw. In {numref}`Fig {number} <Afbe
 ```{figure} Figures/Afbeelding_36_Roll_Yaw_Pitch.png
 ---
 width: 100%
-name: Afbeelding_36_Roll_Yaw_Pitch.png
+name: Afbeelding_36_Roll_Yaw_Pitch
 ---
 Uitleg drie opties voor meten met de gyroscoop: Roll, Yaw en Pitch
 ```

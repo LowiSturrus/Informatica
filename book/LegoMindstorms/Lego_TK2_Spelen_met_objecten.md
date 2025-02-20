@@ -41,7 +41,7 @@ In de programmeerstack van {numref}`Fig {number} <Afbeelding_52_Spelen_met_objec
 
 ```{figure} Figures/Afbeelding_53_Laten_lopen.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_53_Laten_lopen
 ---
 Commando uit programmeerstack
@@ -75,7 +75,7 @@ In hoofdstuk 1 heb je geleerd wat pseudocode is. In pseudocode beschrijf je in g
 
 ```{figure} Figures/Afbeelding_55_Pseudocode.png
 ---
-width: 40%
+width: 60%
 name: Afbeelding_55_Pseudocode
 ---
 Een voorbeeld van pseudecode

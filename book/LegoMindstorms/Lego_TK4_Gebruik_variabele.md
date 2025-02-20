@@ -71,7 +71,7 @@ Aan de rechterkant van het Programmeerscherm is nu een Variabelenscherm te zien.
 
 ```{figure} Figures/Afbeelding_76_Deelscherm_variabelen.png
 ---
-width: 40%
+width: 30%
 name: Afbeelding_76_Deelscherm_variabelen
 ---
 Deelscherm met de waarden van de variabelen
