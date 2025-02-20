@@ -186,7 +186,7 @@ figclass: margin
 Voorbeelden van woordblokken
 ```
 
-Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in {numref}`Fig {number} <Afbeelding_10_Programma_venster>`. Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven in {numref}`Fig {number} <Afbeelding_Woordblokken>`), waarin de kenmerkende vorm is te zien:
+Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in {numref}`Fig {number} <Afbeelding_310_Programma_venster>`. Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven in {numref}`Fig {number} <Afbeelding_313_Woordblokken>`), waarin de kenmerkende vorm is te zien:
 - Commando’s zijn de opdrachten die het programma moet uitvoeren;
 - Gebeurtenissen bepalen of en wanneer het programma één of meerdere commando’s moet uitvoeren;
 - Variabelen kunnen een bepaalde waarde aannemen. Dit kunnen cijfers zijn, het resultaat van een berekening of vergelijking of een sensorwaarde;
