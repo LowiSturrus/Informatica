@@ -4,7 +4,7 @@
 Schrijf programma’s waarin de kleursensor wordt gebruikt om de rijbasis zelfstandig te maken.
  
 ## Uitgebreide oefenrijbasis
-In het hoofdstuk 3 heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een lichtsensor.(zie {numref}`Fig {number} <Afbeelding_11_Oefenrijbasis>`).
+In het hoofdstuk 3 heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een lichtsensor.(zie {numref}`Fig {number} <Afbeelding_51_Oefenrijbasis_3>`).
 
 ```{figure} Figures/Afbeelding_51_Oefenrijbasis_3.png
 ---
@@ -17,9 +17,9 @@ Met lichtsensor uitgebreide oefenrijbasis
 De bouwinstructies voor de uitbreiding staan in het hoofdstuk "Bouwinstructies". Open het bestand ‘Trainingskamp 3 - Driving-base Op lijnen reageren.pdf’ en volg de instructies voor het bouwen van de uitgebreiding. 
 
 ## Programmeerinstructies
-Open een nieuw project met woordblokken. Neem de programmeerstack van {numref}`Fig {number} <Afbeelding_18_Spelen_met_objecten>` over en voer het programma uit.
+Open een nieuw project met woordblokken. Neem de programmeerstack van {numref}`Fig {number} <Afbeelding_52_Stoppen_bij_een_lijn>` over en voer het programma uit.
 
-```{figure} Figures/Afbeelding_18_Spelen_met_objecten.png
+```{figure} Figures/Afbeelding_52_Stoppen_bij_een_lijn.png
 ---
 width: 40%
 name: Afbeelding_52_Stoppen_bij_een_lijn
@@ -35,7 +35,7 @@ Het verplaatsen van een robot van een locatie naar een andere locatie is heel be
 
 
 ```{exercise} Opdracht 19
-BOverleg in een groepje van vier leerlingen over de pseudocode voor het volgen van een lijn. Schrijf het resultaat op en laat dit aan de docent zien.                                   
+Overleg in een groepje van vier leerlingen over de pseudocode voor het volgen van een lijn. Schrijf het resultaat op en laat dit aan de docent zien.                                   
 ```
 
 ## Uitbreidingen woordblokken
@@ -68,9 +68,9 @@ Commando ‘bewegen starten op %’
 ``` 
 
 
-Je gaat onderzoeken wat dit commando doet. Open een nieuw project met woordblokken. Neem de volgende programmeerstack over. voer het programma uit.
+Je gaat onderzoeken wat dit commando doet. Open een nieuw project met woordblokken. Neem de volgende programmeerstack over en voer het programma uit.
 
-```{figure} Figures/Afbeelding_56_Bewegen_percentage_vermogen.png
+```{figure} Figures/Afbeelding_66_Bewegen_percentage_vermogen.png
 ---
 width: 40%
 name: Afbeelding_56_Bewegen_percentage_vermogen
@@ -88,7 +88,7 @@ Voer het programma drie keer uit met achtereenvolgens de volgende waarden voor h
 Beschrijf het verschil dat ontstaat bij het uit voeren van het programma met de verschillende waarden voor het vermogen.  
 ```
 
-Het commando uit {numref}`Fig {number} <Afbeelding_15_Percentage_vermogen>` wordt gebruikt in het programma voor het volgen van een lijn.
+Het commando uit {numref}`Fig {number} <Afbeelding_55_Percentage_vermogen>` wordt gebruikt in het programma voor het volgen van een lijn.
 
 ## Vervolg programmeerinstructies
 Je docent heeft met een plaat met een getrokken zwarte lijn gemaakt. De robot gaat naar deze lijn rijden en vervolgens de lijn volgen.
