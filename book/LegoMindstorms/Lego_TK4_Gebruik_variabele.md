@@ -78,7 +78,16 @@ Deelscherm met de waarden van de variabelen
 ``` 
 
 ## Veranderen waarde van een variabelen
-In hoofdstuk 4 heb je een programmeerstack gebruikt om de robot bij een lijn te laten stoppen. Met het programma wordt de robot gestopt bij de eerste lijn van de juiste kleur, die het tegenkomt. Maar stel nu dat je de robot moet laten stoppen bij de derde lijn van de juiste kleur. Dit kan door een nieuwe variabele te maken met de naam ‘Teller’. Deze variabele krijgt de beginwaarde 0. Elke keer als de robot een lijn van de juiste kleur tegenkomt, wordt Teller verandert met 1. Als Teller de waarde 3 heeft moet de robot stoppen.
+In hoofdstuk 4 heb je een programmeerstack gebruikt om de robot bij een lijn te laten stoppen. Met het programma wordt de robot gestopt bij de eerste lijn van de juiste kleur, die het tegenkomt. Maar stel nu dat je de robot moet laten stoppen bij de derde lijn van de juiste kleur. Dit kan door een nieuwe variabele te maken met de naam ‘Teller’. Deze variabele krijgt de beginwaarde 0. Elke keer als de robot een lijn van de juiste kleur tegenkomt, wordt Teller verandert met 1. Als Teller de waarde 3 heeft moet de robot stoppen. (zie {numref}`Fig {number} <Afbeelding_66_Bewegen_percentage_vermogen>`)
+
+```{figure} Figures/Afbeelding_77_Gebruik_teller.png
+---
+width: 40%
+name: Afbeelding_77_Gebruik_teller
+---
+Commando's voor het instellen en veranderen van een variabele.
+``` 
+
 De docent heeft en speelveld met meerdere lijnen. Gebruik dit speelveld.
 
 ```{exercise} Opdracht 26
