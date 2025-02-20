@@ -4,25 +4,25 @@
 Gebruik sensoren om de motoren te besturen en voor interactie met objecten op het wedstrijdveld.
  
 ## Uitgebreide oefenrijbasis
-n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm. (zie {numref}`Fig {number} <Afbeelding_17_Oefenrijbasis_2>`).
+n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm. (zie {numref}`Fig {number} <Afbeelding_51_Oefenrijbasis_2>`).
 
-```{figure} Figures/Afbeelding_17_Oefenrijbasis_2.png
+```{figure} Figures/Afbeelding_51_Oefenrijbasis_2.png
 ---
 width: 40%
-name: Afbeelding_17_Oefenrijbasis_2
+name: Afbeelding_51_Oefenrijbasis_2
 ---
-Uitgebreide oefenrijbasis met afstandssensor en bewegeegbare arm
+Uitgebreide oefenrijbasis met afstandssensor en beweegbare arm
 ``` 
 
 De bouwinstructies voor de uitbreiding staan in het hoofdstuk "Bouwinstructies". Open het bestand ‘Trainingskamp 2 - Driving-base Spelen met objectenen.pdf’ en volg de instructies voor het bouwen van de uitgebreide oefenrijbasis. 
 
 ## Programmeerinstructies
-Open een nieuw project met woordblokken. Neem de programmeerstack uit {numref}`Fig {number} <Afbeelding_18_Spelen_met_objecten>` over en voer het programma uit.
+Open een nieuw project met woordblokken. Neem de programmeerstack uit {numref}`Fig {number} <Afbeelding_52_Spelen_met_objecten>` over en voer het programma uit.
 
-```{figure} Figures/Afbeelding_18_Spelen_met_objecten.png
+```{figure} Figures/Afbeelding_52_Spelen_met_objecten.png
 ---
 width: 40%
-name: Afbeelding_18_Spelen_met_objecten
+name: Afbeelding_52_Spelen_met_objecten
 ---
 Programmeerstack 'Spelen met objecten'
 ``` 
@@ -37,12 +37,12 @@ Beschrijf wat er gebeurt als je op de linker knop indrukt.
 Beschrijf wat er gebeurt als je op de rechter knop indrukt.
 ```
 
-In de programmeerstack van {numref}`Fig {number} <Afbeelding_18_Spelen_met_objecten>` is het volgende commando opgenomen, waarmee motor E gedurende 1 seconde naar rechts draait.:
+In de programmeerstack van {numref}`Fig {number} <Afbeelding_52_Spelen_met_objecten>` is het volgende commando opgenomen, waarmee motor E gedurende 1 seconde naar rechts draait.:
 
-```{figure} Figures/Afbeelding_19_Laten_lopen.png
+```{figure} Figures/Afbeelding_53_Laten_lopen.png
 ---
 width: 50%
-name: Afbeelding_19_Laten_lopen
+name: Afbeelding_53_Laten_lopen
 ---
 Commando uit programmeerstack
 ``` 
@@ -51,10 +51,10 @@ Commando uit programmeerstack
 Pas het commando aan zodat motor E naar rechts draait over 75 graden en vervang het laatste deel van het programma door onderstaande programmeerstack.                                   
 ```
 
-```{figure} Figures/Afbeelding_20_Aanpassing_spelen_met_objecten.png
+```{figure} Figures/Afbeelding_54_Aanpassing_spelen_met_objecten.png
 ---
 width: 40%
-name: Afbeelding_20_Aanpassing_spelen_met_objecten
+name: Afbeelding_54_Aanpassing_spelen_met_objecten
 ---
 Aanpassing programmeerstack 'Spelen met objecten'
 ``` 
@@ -71,12 +71,12 @@ Het is misschien opgevallen dat er twee categorieën commando’s zijn waarmee d
 
 
 ## Pseudocode
-In hoofdstuk 1 heb je geleerd wat pseudocode is. In pseudocode beschrijf je in gewone taal de stappen in je programmeerstack die nodig zijn om de robot bepaalde handelingen te laten uitvoeren. In {numref}`Fig {number} <Afbeelding_21_Pseudocode>` is een voorbeeld gegeven.
+In hoofdstuk 1 heb je geleerd wat pseudocode is. In pseudocode beschrijf je in gewone taal de stappen in je programmeerstack die nodig zijn om de robot bepaalde handelingen te laten uitvoeren. In {numref}`Fig {number} <Afbeelding_55_Pseudocode>` is een voorbeeld gegeven.
 
-```{figure} Figures/Afbeelding_21_Pseudocode.png
+```{figure} Figures/Afbeelding_55_Pseudocode.png
 ---
 width: 40%
-name: Afbeelding_21_Pseudocode
+name: Afbeelding_55_Pseudocode
 ---
 Een voorbeeld van pseudecode
 ``` 
