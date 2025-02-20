@@ -84,7 +84,7 @@ De gyroscoop heeft drie opties: Pitch, Roll, Yaw. In {numref}`Fig {number} <Afbe
 
 ```{figure} Figures/Afbeelding_36_Roll_Yaw_Pitch.png
 ---
-width: 100%
+width: 60%
 name: Afbeelding_36_Roll_Yaw_Pitch
 ---
 Uitleg drie opties voor meten met de gyroscoop: Roll, Yaw en Pitch
