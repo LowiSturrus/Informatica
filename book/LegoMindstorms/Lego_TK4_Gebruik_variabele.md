@@ -47,7 +47,7 @@ Vanaf nu kun je de variabele ‘Power’ gebruiken. Wel moet je deze variabel no
 
 ```{figure} Figures/Afbeelding_74_Variabele_power.png
 ---
-width: 40%
+width: 30%
 name: Afbeelding_74_Variabele_power
 ---
 Commando voor vermogen m.b.v. een variabele 'Power'
@@ -84,49 +84,3 @@ De docent heeft en speelveld met meerdere lijnen. Gebruik dit speelveld.
 ```{exercise} Opdracht 26
 Schrijf een programmeerstack die ervoor zorgt dat de robot stopt bij de derde groene lijn. Voer het programma uit en laat het resultaat zien aan de docent.  
 ```
-
-Het commando uit {numref}`Fig {number} <Afbeelding_15_Percentage_vermogen>` wordt gebruikt in het programma voor het volgen van een lijn.
-
-## Vervolg programmeerinstructies
-Je docent heeft met een plaat met een getrokken zwarte lijn gemaakt. De robot gaat naar deze lijn rijden en vervolgens de lijn volgen.
-
-```{exercise} Opdracht 21
-Voeg de volgende programmeerstack aan het programma ‘volgen van een lijn’ en voer het programma uit. Laat het resultaat aan de docent zien.
-```
-
-```{figure} Figures/Afbeelding_57_Volgen_lijn.png
----
-width: 40%
-name: Afbeelding_57_Volgen_lijn
----
-Programmeerstack 'volgen van een lijn'
-```
-
-Met het programma van {numref}`Fig {number} <Afbeelding_57_Volgen_lijn>` kun je de robot een lijn op de ondergrond laten volgen. De bewegingen zijn echter nogal schokkering; de robot beweegt steeds van links naar rechts en weer terug. Helemaal te voorkomen is dit niet, maar het is wel mogelijk om de bewegingen minder schokkerig te maken. Dit kan op twee manieren worden bereikt:
-* Door het aanpassen van het ontwerp van de robot;
-* Door het aanpassen van het programma.
-
-```{exercise} Opdracht 22
-Maak in hetzelfde groepje als bij opdracht 20 een aanpassing van het ontwerp van de robot, waardoor deze minder schokkerig gaat bewegen. Doorloop hierbij de volgende stappen:
-* Ieder groepslid bedenkt een eigen oplossing (5 minuten);
-* Ieder groepslid legt zijn oplossing uit aan de andere leden van de groep;
-* Bespreek vervolgens de bedachte oplossingen;
-* Kies de beste oplossing;
-* Pas de gekozen oplossing toe;
-* Controleer of de robot minder schokkerig beweegt.
-* Laat het resultaat aan de docent zien.
-``` 
-
-In de vorige opdracht heb je de werking van de robot verbeterd door het aanpassen van het ontwerp. Je kunt een verbetering ook bereiken door het aanpassen van het programma door gebruik te maken van de volgende **operator**:
-
-```{figure} Figures/Afbeelding_58_Operator_reflectie.png
----
-width: 40%
-name: Afbeelding_58_Operator_reflectie
----
-Woordblok voor operator ‘reflectie’
-```
-
-```{exercise} Opdracht 23
-Vraag de docent om de bovenstaande operator uit te leggen en gebruik deze operator om het programma van {numref}`Fig {number} <Afbeelding_57_Volgen_lijn>` aan te passen om de robot efficiënter te laten bewegen. Laat het resultaat aan de docent zien.
-``` 
