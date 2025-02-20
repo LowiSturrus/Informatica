@@ -16,6 +16,7 @@ parts:
     - file: LegoMindstorms/Lego_TK1_Rondrijden.md
     - file: LegoMindstorms/Lego_TK2_Spelen_met_objecten.md
     - file: LegoMindstorms/Lego_TK3_Op_lijnen_reageren.md
+    - file: LegoMindstorms/Lego_TK4_Gebruik_variabele.md
 
   - caption: Python
     numbered: true
