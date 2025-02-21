@@ -82,7 +82,7 @@ In hoofdstuk 4 heb je een programmeerstack gebruikt om de robot bij een lijn te 
 
 ```{figure} Figures/Afbeelding_77_Gebruik_teller.png
 ---
-width: 40%
+width: 30%
 name: Afbeelding_77_Gebruik_teller
 ---
 Commando's voor het instellen en veranderen van een variabele.

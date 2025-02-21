@@ -17,6 +17,7 @@ parts:
     - file: LegoMindstorms/Lego_TK2_Spelen_met_objecten.md
     - file: LegoMindstorms/Lego_TK3_Op_lijnen_reageren.md
     - file: LegoMindstorms/Lego_TK4_Gebruik_variabele.md
+    - file: :egoMindstorms/Trainingskamp_1_Drivingbase_Rondrijden.pdf
 
   - caption: Python
     numbered: true
