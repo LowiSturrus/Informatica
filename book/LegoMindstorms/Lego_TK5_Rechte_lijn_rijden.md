@@ -28,7 +28,7 @@ Hoeken met de wijzers van de klok mee
 
 ```{figure} Figures/Afbeelding_82_Kompasroos.png
 ---
-width: 40%
+width: 30%
 name: Afbeelding_82_Kompasroos
 ---
 Kompasroos
@@ -48,7 +48,7 @@ De yaw kan waarden hebben van 0° tot 180° of van 0° tot -180°. Dit is afhank
 
 ```{figure} Figures/Afbeelding_84_Waarden_yaw_hoek.png
 ---
-width: 75%
+width: 100%
 name: Afbeelding_84_Waarden_yaw_hoek
 ---
 De waarden van de yaw-hoek
@@ -58,7 +58,7 @@ Met behulp van de programmeerstack van {numref}`Fig {number} <Afbeelding_85_Mete
 
 ```{figure} Figures/Afbeelding_85_Meten_yaw_hoek.png
 ---
-width: 40%
+width: 30%
 name: Afbeelding_85_Meten_yaw_hoek
 ---
 Programmeerstack ‘meten yaw-hoek’
@@ -90,7 +90,7 @@ In het programma komt het volgende woordblok voor:
 
 ```{figure} Figures/Afbeelding_87_Timer.png
 ---
-width: 30%
+width: 25%
 name: Afbeelding_87_Timer
 ---
 De sensor 'Timer'
@@ -140,5 +140,6 @@ Voer het programma drie keer uit met achtereenvolgens de volgende waarden voor d
 1. 0
 2. 45
 3. 90
+
 Beschrijf het verschil dat ontstaat bij het uit voeren van het programma met de verschillende waarden voor de variabele 'Correctie'.                          
 ```
