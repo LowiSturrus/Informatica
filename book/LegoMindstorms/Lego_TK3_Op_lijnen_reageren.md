@@ -85,6 +85,7 @@ Voer het programma drie keer uit met achtereenvolgens de volgende waarden voor h
 1. 50 en 50;
 2.  0 en 50;
 3. 50 en 0.
+
 Beschrijf het verschil dat ontstaat bij het uit voeren van het programma met de verschillende waarden voor het vermogen.  
 ```
 

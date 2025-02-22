@@ -42,7 +42,7 @@ Met de afstandmeter (zie {numref}`Fig {number} <Afbeelding_33_Afstandssensor>`) 
 
 ```{figure} Figures/Afbeelding_33_Afstandssensor.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_33_Afstandssensor
 ---
 De Afstandssensor
@@ -55,7 +55,7 @@ De krachtsensor (zie {numref}`Fig {number} <Afbeelding_34_Krachtsensor>`) kracht
 
 ```{figure} Figures/Afbeelding_34_Krachtsensor.png
 ---
-width: 50%
+width: 40%
 name: Afbeelding_34_Krachtsensor
 ---
 De krachtsensor
@@ -69,7 +69,7 @@ De motor bevat ook een rotatiesensor, waarmee de snelheid waarmee de snelheid en
 
 ```{figure} Figures/Afbeelding_35_Motoren.png
 ---
-width: 60%
+width: 50%
 name: Afbeelding_35_Motoren
 ---
 De kleinere en grotere motor

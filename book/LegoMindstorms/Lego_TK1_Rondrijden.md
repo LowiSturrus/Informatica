@@ -47,7 +47,7 @@ Beschrijf wat er gebeurt als je op de linker knop indrukt.
 Beschrijf wat er gebeurt als je op de rechter knop indrukt.
 ```
 
-In de programmeerstack van figuur 12 zijn de volgende commando’s opgenomen:
+In de programmeerstack van {numref}`Fig {number} <Afbeelding_43_Rondrijden>` zijn de volgende commando’s opgenomen:
 
 ```{figure} Figures/Afbeelding_44_Commandos_bewegen.png
 ---

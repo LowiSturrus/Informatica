@@ -47,7 +47,7 @@ Vanaf nu kun je de variabele ‘Power’ gebruiken. Wel moet je deze variabel no
 
 ```{figure} Figures/Afbeelding_74_Variabele_power.png
 ---
-width: 30%
+width: 25%
 name: Afbeelding_74_Variabele_power
 ---
 Commando voor vermogen m.b.v. een variabele 'Power'
@@ -82,7 +82,7 @@ In hoofdstuk 4 heb je een programmeerstack gebruikt om de robot bij een lijn te 
 
 ```{figure} Figures/Afbeelding_77_Gebruik_teller.png
 ---
-width: 30%
+width: 25%
 name: Afbeelding_77_Gebruik_teller
 ---
 Commando's voor het instellen en veranderen van een variabele.
