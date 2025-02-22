@@ -10,7 +10,7 @@ figclass: margin
 Met Lego Mindstorms kun je je eigen robotwezens, voertuigen, machines en uitvindingen creëren en bedienen. Je gebruikt hiervoor de bekende LEGO® elementen. Door deze te combineren met een programmeerbare steen, motoren en sensoren kun je je creaties laten lopen, praten, grijpen, denken, schieten en bijna alles wat je je maar voor kunt stellen.
 ```{figure} /LegoMindstorms/Figures/Lego_Education_Logo.png
 ---
-width: 30%
+width: 35%
 name: Lego_Education_Logo
 figclass: margin
 ---

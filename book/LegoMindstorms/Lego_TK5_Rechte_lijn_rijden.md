@@ -20,7 +20,7 @@ Hoeken worden in de wiskunde uitgedrukt in graden (°). Het is niet de bedoeling
 
 ```{figure} Figures/Afbeelding_81_Yaw_hoeken.png
 ---
-width: 60%
+width: 75%
 name: Afbeelding_81_Yaw_hoeken
 ---
 Hoeken met de wijzers van de klok mee
@@ -28,7 +28,7 @@ Hoeken met de wijzers van de klok mee
 
 ```{figure} Figures/Afbeelding_82_Kompasroos.png
 ---
-width: 60%
+width: 40%
 name: Afbeelding_82_Kompasroos
 ---
 Kompasroos
@@ -48,7 +48,7 @@ De yaw kan waarden hebben van 0° tot 180° of van 0° tot -180°. Dit is afhank
 
 ```{figure} Figures/Afbeelding_84_Waarden_yaw_hoek.png
 ---
-width: 60%
+width: 75%
 name: Afbeelding_84_Waarden_yaw_hoek
 ---
 De waarden van de yaw-hoek
@@ -58,7 +58,7 @@ Met behulp van de programmeerstack van {numref}`Fig {number} <Afbeelding_85_Mete
 
 ```{figure} Figures/Afbeelding_85_Meten_yaw_hoek.png
 ---
-width: 60%
+width: 40%
 name: Afbeelding_85_Meten_yaw_hoek
 ---
 Programmeerstack ‘meten yaw-hoek’
@@ -76,7 +76,7 @@ Open een nieuw project met woordblokken. Neem de volgende programmeerstack over 
 
 ```{figure} Figures/Afbeelding_86_Een_rechte_lijn.png
 ---
-width: 40%
+width: 50%
 name: Afbeelding_86_Een_rechte_lijn
 ---
 Programmeerstack ‘Een rechte lijn’
@@ -108,7 +108,7 @@ In {numref}`Fig {number} <Afbeelding_88_Variatie_een_rechte_lijn>` het dezelfde 
 
 ```{figure} Figures/Afbeelding_88_Variatie_een_rechte_lijn.png
 ---
-width: 40%
+width: 50%
 name: Afbeelding_88_Variatie_een_rechte_lijn
 ---
 Variatie op de programmeerstack ‘Een rechte lijn’ 
@@ -119,7 +119,7 @@ De volgende commando’s zijn toegevoegd of aangepast:
 
 ```{figure} Figures/Afbeelding_89_Correctie_yaw_hoek.png
 ---
-width: 30%
+width: 40%
 name: Afbeelding_89_Correctie_yaw_hoek
 ---
 De variabel 'Correctie'
@@ -127,7 +127,7 @@ De variabel 'Correctie'
 
 ```{figure} Figures/Afbeelding_810_M_Power_vermogen.png
 ---
-width: 30%
+width: 40%
 name: Afbeelding_810_M_Power_vermogen
 ---
 De variabelen 'M-Power' en 'Correctie' voor het rijden in een rechte lijn
