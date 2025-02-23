@@ -8,13 +8,13 @@ De SPIKE Prime set bestaat uit de volgende onderdelen: de steen, de motoren en d
 
 **De Steen**
 
-De steen vormt het centrale deel van de robot en wordt ook wel hun of brick genoemd. In {numref}`Fig {number} <Afbeelding_31_De_Steen>` is de steen weergegeven. Het bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
+De steen vormt het centrale deel van de robot en wordt ook wel hun of brick genoemd. In {numref}`Fig {number} <Afbeelding_21_De_Steen>` is de steen weergegeven. Het bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sensoren en motoren. De grote knop in het midden is de aan/uit-knop. Bovendien kun je mee deze knop een ingelezen programma starten en stoppen. De kleine knopjes links en rechts van de aan/uit-knop worden gebruikt om verschillende delen van een programma de starten. Met het kleine knopje rechts boven kan een bluetooth-verbinding tussen de steen en de app tot stand worden gebracht.
 
-```{figure} Figures/Afbeelding_31_De_Steen.png
+```{figure} Figures/Afbeelding_21_De_Steen.png
 ---
 width: 75%
 height: 50%
-name: Afbeelding_31_De_Steen
+name: Afbeelding_21_De_Steen
 ---
 De steen
 ``` 
@@ -25,25 +25,25 @@ De steen bevat zes aansluitingen (aan beide zijden drie aansluitingen) voor sens
 
 **De kleurensensor**
 
-De kleursensor (zie {numref}`Fig {number} <Afbeelding_32_Kleurensensor>`) kan meerdere kleuren onderscheiden en vangt gereflecteerd en omgevingslicht op, van het donker tot fel zonlicht. Daarnaast kan de kleurensensor wit licht uitzenden.
+De kleursensor (zie {numref}`Fig {number} <Afbeelding_22_Kleurensensor>`) kan meerdere kleuren onderscheiden en vangt gereflecteerd en omgevingslicht op, van het donker tot fel zonlicht. Daarnaast kan de kleurensensor wit licht uitzenden.
 
-```{figure} Figures/Afbeelding_32_Kleurensensor.png
+```{figure} Figures/Afbeelding_22_Kleurensensor.png
 ---
 width: 50%
-name: Afbeelding_32_Kleurensensor
+name: Afbeelding_22_Kleurensensor
 ---
 De kleurensensor
 ``` 
 
 
-**De afstandsensor**
+**De afstandssensor**
 
-Met de afstandmeter (zie {numref}`Fig {number} <Afbeelding_33_Afstandssensor>`) kan de afstand tot een voor de sensor aanwezig object worden bepaald met een nauwkeurigheid van 1 cm.
+Met de afstandsmeter (zie {numref}`Fig {number} <Afbeelding_23_Afstandssensor>`) kan de afstand tot een voor de sensor aanwezig object worden bepaald met een nauwkeurigheid van 1 cm.
 
-```{figure} Figures/Afbeelding_33_Afstandssensor.png
+```{figure} Figures/Afbeelding_32_Afstandssensor.png
 ---
 width: 40%
-name: Afbeelding_33_Afstandssensor
+name: Afbeelding_23_Afstandssensor
 ---
 De Afstandssensor
 ``` 
@@ -51,12 +51,12 @@ De Afstandssensor
 
 **De krachtsensor**
 
-De krachtsensor (zie {numref}`Fig {number} <Afbeelding_34_Krachtsensor>`) krachtsensor meet druk van maximaal 10 Newton (~ 1 kg). De sensor kan ook worden gebruikt als tastsensor als hij wordt ingedrukt, vrijgegeven of geraakt.
+De krachtsensor (zie {numref}`Fig {number} <Afbeelding_24_Krachtsensor>`) krachtsensor meet druk van maximaal 10 Newton (~ 1 kg). De sensor kan ook worden gebruikt als tastsensor als hij wordt ingedrukt, vrijgegeven of geraakt.
 
-```{figure} Figures/Afbeelding_34_Krachtsensor.png
+```{figure} Figures/Afbeelding_24_Krachtsensor.png
 ---
 width: 40%
-name: Afbeelding_34_Krachtsensor
+name: Afbeelding_24_Krachtsensor
 ---
 De krachtsensor
 ``` 
@@ -67,10 +67,10 @@ De krachtsensor
 De SPIKE Prime set bestaat uit twee soorten motoren; een kleinere en een grotere. Het enige verschil hiertussen is de kracht die door de motor geleverd kan worden. De grotere motor kan meer kracht leveren. Daardoor is deze geschikter om zwaarte objecten op te tillen. De kleinere motoren worden veelal gebruikt voor het rijden van de robot.
 De motor bevat ook een rotatiesensor, waarmee de snelheid waarmee de snelheid en de positie van de motor kan worden gemeten.
 
-```{figure} Figures/Afbeelding_35_Motoren.png
+```{figure} Figures/Afbeelding_25_Motoren.png
 ---
 width: 50%
-name: Afbeelding_35_Motoren
+name: Afbeelding_25_Motoren
 ---
 De kleinere en grotere motor
 ``` 
@@ -80,34 +80,34 @@ De kleinere en grotere motor
 
 In de steen is een gyroscoop verwerkt. Hiermee kan de stand van de steen in verschillende richtingen worden bepaald en gecontroleerd.
 
-De gyroscoop heeft drie opties: Pitch, Roll, Yaw. In {numref}`Fig {number} <Afbeelding_36_Roll_Yaw_Pitch>` zijn deze schematisch weergegeven.
+De gyroscoop heeft drie opties: Pitch, Roll, Yaw. In {numref}`Fig {number} <Afbeelding_26_Roll_Yaw_Pitch>` zijn deze schematisch weergegeven.
 
-```{figure} Figures/Afbeelding_36_Roll_Yaw_Pitch.png
+```{figure} Figures/Afbeelding_26_Roll_Yaw_Pitch.png
 ---
 width: 60%
-name: Afbeelding_36_Roll_Yaw_Pitch
+name: Afbeelding_26_Roll_Yaw_Pitch
 ---
 Uitleg drie opties voor meten met de gyroscoop: Roll, Yaw en Pitch
 ```
 
 
 ## Start app
-Als je de app hebt geïnstalleerd kun je deze openen. Je krijgt dan het volgende scherm te zien (zie {numref}`Fig {number} <Afbeelding_37_Selectiescherm>`).
+Als je de app hebt geïnstalleerd kun je deze openen. Je krijgt dan het volgende scherm te zien (zie {numref}`Fig {number} <Afbeelding_27_Selectiescherm>`).
 
-```{figure} Figures/Afbeelding_37_Selectiescherm.png
+```{figure} Figures/Afbeelding_27_Selectiescherm.png
 ---
 width: 75%
-name: Afbeelding_37_Selectiescherm
+name: Afbeelding_27_Selectiescherm
 ---
 Selectiescherm
 ``` 
 
-Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, die uit drie delen bestaat (zie {numref}`Fig {number} <Afbeelding_38_Home_pagina>`).
+Kies in dit scherm voor de optie SPIKE prime. Daarna verschijn de Home-pagina, die uit drie delen bestaat (zie {numref}`Fig {number} <Afbeelding_28_Home_pagina>`).
 
-```{figure} Figures/Afbeelding_38_Home_pagina.png
+```{figure} Figures/Afbeelding_28_Home_pagina.png
 ---
 width: 75%
-name: Afbeelding_38_Home_pagina
+name: Afbeelding_28_Home_pagina
 ---
 Home-pagina
 ``` 
@@ -117,12 +117,12 @@ Het bovenste deel (blauwe vlak) bestaat uit een aantal kennismakings-opdrachten,
 
 
 ## Oefenactiviteiten
-Klik in het bovenste deel op de Start-knop om in het scherm met oefenactiviteiten te komen (zie {numref}`Fig {number} <Afbeelding_39_Oefenactiviteiten>`).
+Klik in het bovenste deel op de Start-knop om in het scherm met oefenactiviteiten te komen (zie {numref}`Fig {number} <Afbeelding_29_Oefenactiviteiten>`).
 
-```{figure} Figures/Afbeelding_39_Oefenactiviteiten.png
+```{figure} Figures/Afbeelding_29_Oefenactiviteiten.png
 ---
 width: 75%
-name: Afbeelding_39_Oefenactiviteiten
+name: Afbeelding_29_Oefenactiviteiten
 ---
 Oefenactiviteiten
 
@@ -137,29 +137,29 @@ Wat is de grootste afstand die door de afstandssensor kan worden gedetecteerd.
 
 
 ## Schermindeling
-Het maken van een programma gebeurt in het programma-venster (zie {numref}`Fig {number} <Afbeelding_310_Programma_venster>`). 
+Het maken van een programma gebeurt in het programma-venster (zie {numref}`Fig {number} <Afbeelding_210_Programma_venster>`). 
 
-```{figure} Figures/Afbeelding_310_Programma_venster.png
+```{figure} Figures/Afbeelding_210_Programma_venster.png
 ---
 width: 75%
-name: Afbeelding_310_Programma_venster
+name: Afbeelding_210_Programma_venster
 ---
 Programma-venster
 ```
 
-```{figure} Figures/Afbeelding_311_Start_Stop_knop.png
+```{figure} Figures/Afbeelding_211_Start_Stop_knop.png
 ---
 width: 30%
-name: Afbeelding_311_Start_Stop_knop
+name: Afbeelding_211_Start_Stop_knop
 figclass: margin
 ---
 Knoppen voor starten en stoppen van een run
 ```
 
-```{figure} Figures/Afbeelding_312_Verbinden.png
+```{figure} Figures/Afbeelding_212_Verbinden.png
 ---
 width: 20%
-name: Afbeelding_312_Verbinden
+name: Afbeelding_212_Verbinden
 figclass: margin
 ---
 Knop voor verbinden van computer met steen
@@ -177,16 +177,16 @@ Het programma-venster bestaat uit de volgende onderdelen:
 
 **Woordblokken**
 
-```{figure} Figures/Afbeelding_313_Woordblokken.png
+```{figure} Figures/Afbeelding_213_Woordblokken.png
 ---
 width: 100%
-name: Afbeelding_313_Woordblokken
+name: Afbeelding_213_Woordblokken
 figclass: margin
 ---
 Voorbeelden van woordblokken
 ```
 
-Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in {numref}`Fig {number} <Afbeelding_310_Programma_venster>`. Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven in {numref}`Fig {number} <Afbeelding_313_Woordblokken>`), waarin de kenmerkende vorm is te zien:
+Bij het maken van een programmeerstack worden verschillende woordblokken aan elkaar gekoppeld. De beschikbare woordblokken zijn opgenomen in de tweede kolom van het scherm (zie groene kader in {numref}`Fig {number} <Afbeelding_210_Programma_venster>`. Er zijn verschillende soorten woordblokken, die herkenbaar zijn aan de vorm waarin ze in het scherm zijn weergegeven. In het onderstaande overzicht zijn de soorten woordblokken te zien. Van elk soort is een voorbeeld gegeven in {numref}`Fig {number} <Afbeelding_213_Woordblokken>`), waarin de kenmerkende vorm is te zien:
 - Commando’s zijn de opdrachten die het programma moet uitvoeren;
 - Gebeurtenissen bepalen of en wanneer het programma één of meerdere commando’s moet uitvoeren;
 - Variabelen kunnen een bepaalde waarde aannemen. Dit kunnen cijfers zijn, het resultaat van een berekening of vergelijking of een sensorwaarde;
