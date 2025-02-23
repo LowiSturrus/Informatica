@@ -9,7 +9,7 @@ In hoofdstuk 5 heb je geleerd hoe je een robot een lijn kan laten volgen. Dit is
 Zoals in hoofdstuk 3 is vermeld kent de gyroscoop kent drie verschillende opties: pitch, roll en yaw. Je gaat de volgende opdrachten alleen gebruik maken van de optie yaw. Dit is voor de meeste toepassingen de belangrijkste optie. Deze optie meet hoeken waarover de steen is gedraaid ten opzichte van een beginsituatie. Hieronder wordt eerst ingegaan op de wiskunde van het meten van hoeken.
 
 **Hoeken**
-Hoeken worden in de wiskunde uitgedrukt in graden (°). Het is niet de bedoeling van deze handleiding om uitgebreid op dit onderwerp in te gaan. Hier wordt volstaan met een korte uitleg met behulp van {numref}`Fig {number} <Afbeelding_81_Yaw_hoeken>`:
+Hoeken worden in de wiskunde uitgedrukt in graden (°). Het is niet de bedoeling van deze handleiding om uitgebreid op dit onderwerp in te gaan. Hier wordt volstaan met een korte uitleg met behulp van {numref}`Fig {number} <Afbeelding_71_Yaw_hoeken>`:
 
 * De uitgangspositie van de robot in de figuur 30 linksboven wordt gelijkgesteld met een hoek van 0°;
 * Als de robot een kwartslag draait in de richting van de wijzers van de klok, dan is die gedraaid over een hoek van 90° (zie figuur 30 rechtsboven). Dit wordt in de wiskunde een rechte hoek genoemd;
