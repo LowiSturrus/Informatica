@@ -1,7 +1,7 @@
 # Lego Education Spike inleiding
 ```{figure} /LegoMindstorms/Figures/Lego_Logo.png
 ---
-width: 30%
+width: 40%
 name: Lego_Logo
 figclass: margin
 ---
@@ -11,24 +11,6 @@ LEGO® Education SPIKE™ Prime is dé tool waarmee je kunt leren programmeren. 
 2.	Woordblokken = Scratch
 3.	Python
 In dit Jupyter Book wordt ingegaan op de methode met behulp van intuïtieve programmeertaal Scratch.
-```{figure} /LegoMindstorms/Figures/Lego_Education_Logo.png
----
-width: 35%
-name: Lego_Education_Logo
-figclass: margin
----
-```
-De basis van SPIKE Prime is een centrale besturingsmodule/programmeerbare steen (hub of brick). De heeft 6 in-/uitvoerpoorten, een 5x5-lichtmatrix, bluetooth-connectiviteit, een luidspreker, een 6-assige gyro, en een oplaadbare batterij en kan door middel van de software worden geprogrammeerd met een computer. De SPIKE Prime Set bevat daarnaast zeer nauwkeurige motoren en sensoren waarmee je, in combinatie met allerlei kleurige LEGO® bouwelementen, leuke robots, dynamische apparaten en andere interactieve creaties kunt ontwerpen en bouwen. Dankzij de vele aansluitingspunten op de steen, de motoren, de sensoren en de nieuwe, grote bouwelementen, verlies je minder tijd met bouwen, en heb je meer tijd om te leren. Door de combinatie van bouwelementen motoren en sensoren en een programmeerbare steen kun je je creaties laten lopen, praten, grijpen, denken, schieten en bijna alles wat je je maar voor kunt stellen. 
-
-Voor het programmeren wordt gebruik gemaakt van een app. Deze app is te vinden in de appstore of via de link:
-
-https://education.lego.com/nl-nl/downloads/spike-app/software
-
-Na het downloaden en het installeren van de app leer je in hoofdstuk 2 de basisonderdelen, de sensoren en motoren, van SPIKE Prime kennen en leer je hoe je deze onderdelen vanuit een programmeerstack kunt aansturen. Een programmeerstack of programma is een set van commando’s, waarbij ieder commando wordt gegeven in de vorm van een woordblok.
-
-In de hoofdstukken 3 en 4 leer je alles over het laten rijden van de robot, het aansturen van motoren en het gebruik van sensoren. In hoofdstuk 5 leer je hoe je de robot een gekleurde lijn kunt laten volgen. In hoofdstuk 6 wordt uitgelegd wat een variabele is en hoe je deze in Lego Spike kunt maken. Hoofdstuk 7 wordt een voorbeeld gebruikt om duidelijk te maken hoe je variabelen in een programma kunt gebruiken. Hierbij wordt ook uitgelegd wat een operator is en hoe je die kunt gebruiken. Door een afstandsmeter te maken kun je de robot nauwkeurig naar een positie laten rijden zonder dat hiervoor lijnen in de ondergrond nodig zijn. Het werkingsprincipe wordt uitgelegd in hoofdstuk 8, terwijl in hoofdstuk 9 een variantie met het gebruik van een blok aan de orde komt. In de eerste hoofdstukken worden de programmeerstacks nog gegeven, maar later ga je zelf een programma bedenken. Dit doe je door eerste de pseudocode op te stellen. Dit is een overzicht met de stappen in gewone taal dat wordt uitgeschreven voordat het op een computer wordt geprogrammeerd. De pseudocode wordt omgezet in een algoritme; een reeks stapsgewijze instructies voor het voltooien van een taak. Dit wordt vervolgens vertaald in een programma. Zelfs ervaren programmeurs maken regelmatig programmeerfouten, die bugs worden genoemd. Debuggen is het verhelpen van fouten. Aan de hand van een pseudocode kunnen programmeurs problemen (bugs) eenvoudiger vaststellen en verhelpen, en programmeerstappen ontleden.
-
-Deze handleiding bestaat uit een aantal opdrachten die je zelfstandig gaat uitvoeren. Van een aantal opdrachten moet je het resultaat laten zien aan de docent. Deze opdrachten zijn vetgedrukt. Bij de meeste opdrachten werk je in een duo. Een enkele keer werk je in een grotere groep. Dit wordt dan expliciet aangegeven in de opdracht.
 
 ```{figure} Figures/Lego_Voorblad.png
 ---
@@ -39,3 +21,22 @@ align: center
 ---
 Leerlinghandleiding Scratch
 ```
+
+```{figure} /LegoMindstorms/Figures/Lego_Education_Logo.png
+---
+width: 45%
+name: Lego_Education_Logo
+figclass: margin
+---
+```
+De basis van SPIKE Prime is een centrale besturingsmodule/programmeerbare **steen (hub of brick)**. Deze heeft 6 in-/uitvoerpoorten, een 5x5-lichtmatrix, bluetooth-connectiviteit, een luidspreker, een 6-assige gyro, en een oplaadbare batterij en kan door middel van de software worden geprogrammeerd met een computer of tablet. De SPIKE Prime Set bevat daarnaast zeer nauwkeurige motoren en sensoren waarmee je, in combinatie met allerlei kleurige LEGO® bouwelementen, leuke **robots**, dynamische apparaten en andere interactieve creaties kunt ontwerpen en bouwen. Dankzij de vele aansluitingspunten op de steen, de motoren, de sensoren en de nieuwe, grote bouwelementen, verlies je minder tijd met bouwen, en heb je meer tijd om te leren. Door de combinatie van bouwelementen, motoren, sensoren en een programmeerbare steen kun je je creaties laten lopen, praten, grijpen, denken, schieten en bijna alles wat je je maar voor kunt stellen. 
+
+Voor het programmeren wordt gebruik gemaakt van een app. Deze app is te vinden in de appstore of via de link:
+
+https://education.lego.com/nl-nl/downloads/spike-app/software
+
+Na het downloaden en het installeren van de app leer je in hoofdstuk 2 de basisonderdelen, de sensoren en motoren, van SPIKE Prime kennen en leer je hoe je deze onderdelen vanuit een programmeerstack kunt aansturen. Een programmeerstack of programma is een set van commando’s, waarbij ieder commando wordt gegeven in de vorm van een woordblok.
+
+In de hoofdstukken 3 en 4 leer je alles over het laten rijden van de robot, het aansturen van motoren en het gebruik van sensoren. In hoofdstuk 5 leer je hoe je de robot een gekleurde lijn kunt laten volgen. In hoofdstuk 6 wordt uitgelegd wat een variabele is en hoe je deze in Lego Spike kunt maken. Hoofdstuk 7 wordt een voorbeeld gebruikt om duidelijk te maken hoe je variabelen in een programma kunt gebruiken. Hierbij wordt ook uitgelegd wat een operator is en hoe je die kunt gebruiken. Door een afstandsmeter te maken kun je de robot nauwkeurig naar een positie laten rijden zonder dat hiervoor lijnen in de ondergrond nodig zijn. Het werkingsprincipe wordt uitgelegd in hoofdstuk 8, terwijl in hoofdstuk 9 een variantie met het gebruik van een blok aan de orde komt. In de eerste hoofdstukken worden de programmeerstacks nog gegeven, maar later ga je zelf een programma bedenken. Dit doe je door eerste de pseudocode op te stellen. Dit is een overzicht met de stappen in gewone taal dat wordt uitgeschreven voordat het op een computer wordt geprogrammeerd. De pseudocode wordt omgezet in een algoritme; een reeks stapsgewijze instructies voor het voltooien van een taak. Dit wordt vervolgens vertaald in een programma. Zelfs ervaren programmeurs maken regelmatig programmeerfouten, die bugs worden genoemd. Debuggen is het verhelpen van fouten. Aan de hand van een pseudocode kunnen programmeurs problemen (bugs) eenvoudiger vaststellen en verhelpen, en programmeerstappen ontleden.
+
+Deze handleiding bestaat uit een aantal opdrachten die je zelfstandig gaat uitvoeren. Van een aantal opdrachten moet je het resultaat laten zien aan de docent. Deze opdrachten zijn vetgedrukt. Bij de meeste opdrachten werk je in een duo. Een enkele keer werk je in een grotere groep. Dit wordt dan expliciet aangegeven in de opdracht.

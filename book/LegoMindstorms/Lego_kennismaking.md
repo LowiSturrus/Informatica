@@ -40,7 +40,7 @@ De kleurensensor
 
 Met de afstandsmeter (zie {numref}`Fig {number} <Afbeelding_23_Afstandssensor>`) kan de afstand tot een voor de sensor aanwezig object worden bepaald met een nauwkeurigheid van 1 cm.
 
-```{figure} Figures/Afbeelding_32_Afstandssensor.png
+```{figure} Figures/Afbeelding_23_Afstandssensor.png
 ---
 width: 40%
 name: Afbeelding_23_Afstandssensor
@@ -128,13 +128,12 @@ Oefenactiviteiten
 
 Begin door te klikken op ‘1 De lichtsensor’ en doorloop de stappen van het programma. Na het afronden van een onderdeel wordt automatisch doorgeschakeld naar het volgende onderdeel. Beantwoord tijdens de kennismaking met de verschillende sensoren de volgende vragen. 
 
-```{exercise} Opdracht 1
-Welke kleuren kan de lichtsensor herkennen.                                   
+```{exercise} Kleurensensor
+Welke kleuren kan de lichtsensor herkennen. 
 ```
-```{exercise} Opdracht 2
+```{exercise} Afstandssensor
 Wat is de grootste afstand die door de afstandssensor kan worden gedetecteerd.
 ```
-
 
 ## Schermindeling
 Het maken van een programma gebeurt in het programma-venster (zie {numref}`Fig {number} <Afbeelding_210_Programma_venster>`). 
@@ -191,5 +190,3 @@ Bij het maken van een programmeerstack worden verschillende woordblokken aan elk
 - Gebeurtenissen bepalen of en wanneer het programma één of meerdere commando’s moet uitvoeren;
 - Variabelen kunnen een bepaalde waarde aannemen. Dit kunnen cijfers zijn, het resultaat van een berekening of vergelijking of een sensorwaarde;
 - Met Operatoren kunnen de waarden van variabelen worden vergeleken met een opgegeven waarde en er kunnen berekeningen met variabelen worden uitgevoerd. Het resultaat kan gebruikt worden in commando’s, gebeurtenissen en variabelen. 
-
-
