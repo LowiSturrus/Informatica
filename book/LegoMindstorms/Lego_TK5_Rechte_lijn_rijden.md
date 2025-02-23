@@ -64,7 +64,7 @@ name: Afbeelding_75_Meten_yaw_hoek
 Programmeerstack ‘meten yaw-hoek’
 ``` 
 
-```{exercise} Opdracht 27
+```{exercise} 'Meten yaw-hoek'
 Voer het programma uit. Controleer of de hoeken 90°, 180°, 270° en 360° goed worden weergegeven. Wat valt je op?                                   
 ```
 ## Programmeerinstructies
@@ -82,7 +82,7 @@ name: Afbeelding_76_Een_rechte_lijn
 Programmeerstack ‘Een rechte lijn’
 ``` 
 
-```{exercise} Opdracht 28
+```{exercise} Pseudocode 'Een rechte lijn'
 Schrijf de pseudecode die hoort bij het programma in {numref}`Fig {number} <Afbeelding_75_Meten_yaw_hoek>`  en toon het resultaat aan de docent.                                   
 ```
 
@@ -100,7 +100,7 @@ Dit is een voorbeeld van een zogenaamde ‘operator’. In dit geval maakt de op
 
 De overige woordblokken zijn eerder al behandeld.
 
-```{exercise} Opdracht 29
+```{exercise} Programma 'Een rechte lijn'
 Open een nieuw project met woordblokken. Neem de programmeerstack van {numref}`Fig {number} <Afbeelding_76_Een_rechte_lijn>` over en voer het programma uit.                                   
 ```
 
@@ -135,7 +135,7 @@ De variabelen 'M-Power' en 'Correctie' voor het rijden in een rechte lijn
 
 De waarde van de variabele ‘Correctie’ is ingesteld op 0°.
 
-```{exercise} Opdracht 30
+```{exercise} 
 Voer het programma drie keer uit met achtereenvolgens de volgende waarden voor de variabele Correctie:
 1. 0
 2. 45

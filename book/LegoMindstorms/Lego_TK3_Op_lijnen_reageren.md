@@ -125,7 +125,7 @@ In de vorige opdracht heb je de werking van de robot verbeterd door het aanpasse
 
 ```{figure} Figures/Afbeelding_58_Operator_reflectie.png
 ---
-width: 30%
+width: 40%
 name: Afbeelding_58_Operator_reflectie
 ---
 Woordblok voor operator ‘reflectie’
