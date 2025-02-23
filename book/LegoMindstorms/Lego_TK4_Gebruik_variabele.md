@@ -30,7 +30,7 @@ Geef de variabele de naam ‘Power’ en druk op ‘OK’. Je hebt nu een nieuwe
 width: 40%
 name: Afbeelding_62_Vermogen_zonder_variabele
 ---
-Commando voor vermogen met ingevulde waarden
+Commando ‘bewegen starten op %’ zonder variabele ‘Power’
 ``` 
 
 te vervangen door
@@ -40,7 +40,7 @@ te vervangen door
 width: 40%
 name: Afbeelding_63_Vermogen_met_variabele
 ---
-Commando voor vermogen m.b.v. een variabele 'Power'
+Commando ‘bewegen starten op %’ met variabele ‘Power’
 ``` 
 
 Vanaf nu kun je de variabele ‘Power’ gebruiken. Wel moet je deze variabel nog een waarde geven. Dat doe je met het volgende commando:
@@ -50,7 +50,7 @@ Vanaf nu kun je de variabele ‘Power’ gebruiken. Wel moet je deze variabel no
 width: 25%
 name: Afbeelding_64_Variabele_power
 ---
-Commando voor vermogen m.b.v. een variabele 'Power'
+Toekennen waarde aan variabele ‘Power’'
 ``` 
 
 In de programmeerstack van {numref}`Fig {number} <Afbeelding_65_Bewegen_met_variabele_power>` is weergegeven hoe het programma ‘beweging starten op % vermogen’ er dan uit komt te zien.
