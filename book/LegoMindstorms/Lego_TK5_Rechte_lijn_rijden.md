@@ -76,7 +76,7 @@ Open een nieuw project met woordblokken. Neem de volgende programmeerstack over 
 
 ```{figure} Figures/Afbeelding_76_Een_rechte_lijn.png
 ---
-width: 70%
+width: 80%
 name: Afbeelding_76_Een_rechte_lijn
 ---
 Programmeerstack ‘Een rechte lijn’
@@ -108,7 +108,7 @@ In {numref}`Fig {number} <Afbeelding_78_Variatie_een_rechte_lijn>` het dezelfde 
 
 ```{figure} Figures/Afbeelding_78_Variatie_een_rechte_lijn.png
 ---
-width: 60%
+width: 70%
 name: Afbeelding_78_Variatie_een_rechte_lijn
 ---
 Variatie op de programmeerstack ‘Een rechte lijn’ 
@@ -127,7 +127,7 @@ De variabel 'Correctie'
 
 ```{figure} Figures/Afbeelding_710_M_Power_vermogen.png
 ---
-width: 50%
+width: 60%
 name: Afbeelding_710_M_Power_vermogen
 ---
 De variabelen 'M-Power' en 'Correctie' voor het rijden in een rechte lijn
