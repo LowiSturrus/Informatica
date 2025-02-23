@@ -4,12 +4,12 @@
 Gebruik sensoren om de motoren te besturen en voor interactie met objecten op het wedstrijdveld.
  
 ## Uitgebreide oefenrijbasis
-n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm. (zie {numref}`Fig {number} <Afbeelding_51_Oefenrijbasis_2>`).
+n het vorige hoofdstuk heb je de oefenrijbasis gemaakt. Je gaat deze uitbreiden met een afstandssensor en een beweegbare arm. (zie {numref}`Fig {number} <Afbeelding_41_Oefenrijbasis_2>`).
 
-```{figure} Figures/Afbeelding_51_Oefenrijbasis_2.png
+```{figure} Figures/Afbeelding_41_Oefenrijbasis_2.png
 ---
 width: 40%
-name: Afbeelding_51_Oefenrijbasis_2
+name: Afbeelding_41_Oefenrijbasis_2
 ---
 Uitgebreide oefenrijbasis met afstandssensor en beweegbare arm
 ``` 
@@ -17,44 +17,44 @@ Uitgebreide oefenrijbasis met afstandssensor en beweegbare arm
 De bouwinstructies voor de uitbreiding staan in het hoofdstuk "Bouwinstructies". Open het bestand ‘Trainingskamp 2 - Driving-base Spelen met objectenen.pdf’ en volg de instructies voor het bouwen van de uitgebreide oefenrijbasis. 
 
 ## Programmeerinstructies
-Open een nieuw project met woordblokken. Neem de programmeerstack uit {numref}`Fig {number} <Afbeelding_52_Spelen_met_objecten>` over en voer het programma uit.
+Open een nieuw project met woordblokken. Neem de programmeerstack uit {numref}`Fig {number} <Afbeelding_42_Spelen_met_objecten>` over en voer het programma uit.
 
-```{figure} Figures/Afbeelding_52_Spelen_met_objecten.png
+```{figure} Figures/Afbeelding_42_Spelen_met_objecten.png
 ---
-width: 40%
-name: Afbeelding_52_Spelen_met_objecten
+width: 50%
+name: Afbeelding_42_Spelen_met_objecten
 ---
 Programmeerstack 'Spelen met objecten'
 ``` 
 
-```{exercise} Opdracht 11
+```{exercise} 
 Beschrijf wat er gebeurt als je het programma start.                                   
 ```
-```{exercise} Opdracht 12
+```{exercise} 
 Beschrijf wat er gebeurt als je op de linker knop indrukt.
 ```
-```{exercise} Opdracht 13
+```{exercise} 
 Beschrijf wat er gebeurt als je op de rechter knop indrukt.
 ```
 
-In de programmeerstack van {numref}`Fig {number} <Afbeelding_52_Spelen_met_objecten>` is het volgende commando opgenomen, waarmee motor E gedurende 1 seconde naar rechts draait.:
+In de programmeerstack van {numref}`Fig {number} <Afbeelding_42_Spelen_met_objecten>` is het volgende commando opgenomen, waarmee motor E gedurende 1 seconde naar rechts draait.:
 
-```{figure} Figures/Afbeelding_53_Laten_lopen.png
+```{figure} Figures/Afbeelding_43_Laten_lopen.png
 ---
 width: 40%
-name: Afbeelding_53_Laten_lopen
+name: Afbeelding_43_Laten_lopen
 ---
 Commando uit programmeerstack
 ``` 
 
-```{exercise} Opdracht 14
+```{exercise} 
 Pas het commando aan zodat motor E naar rechts draait over 75 graden en vervang het laatste deel van het programma door onderstaande programmeerstack.                                   
 ```
 
-```{figure} Figures/Afbeelding_54_Aanpassing_spelen_met_objecten.png
+```{figure} Figures/Afbeelding_44_Aanpassing_spelen_met_objecten.png
 ---
-width: 40%
-name: Afbeelding_54_Aanpassing_spelen_met_objecten
+width: 50%
+name: Afbeelding_44_Aanpassing_spelen_met_objecten
 ---
 Aanpassing programmeerstack 'Spelen met objecten'
 ``` 
@@ -62,7 +62,7 @@ Aanpassing programmeerstack 'Spelen met objecten'
 Als je de bouwinstructies voor de uitbreiding van de oefenrijbasis tot het eind hebt uitgevoerd, heb je ook een kubus en een markering gebouwd. Plaats de kubus op circa 5,5 cm voor de markering, plaats de robot op circa 50 cm recht voor de markering en voer het programma uit.
 
 
-```{exercise} Opdracht 15
+```{exercise} 
 Beschrijf wat er gebeurt.                                   
 ```
 
@@ -71,12 +71,12 @@ Het is misschien opgevallen dat er twee categorieën commando’s zijn waarmee d
 
 
 ## Pseudocode
-In hoofdstuk 1 heb je geleerd wat pseudocode is. In pseudocode beschrijf je in gewone taal de stappen in je programmeerstack die nodig zijn om de robot bepaalde handelingen te laten uitvoeren. In {numref}`Fig {number} <Afbeelding_55_Pseudocode>` is een voorbeeld gegeven.
+In hoofdstuk 1 heb je geleerd wat pseudocode is. In pseudocode beschrijf je in gewone taal de stappen in je programmeerstack die nodig zijn om de robot bepaalde handelingen te laten uitvoeren. In {numref}`Fig {number} <Afbeelding_45_Pseudocode>` is een voorbeeld gegeven.
 
-```{figure} Figures/Afbeelding_55_Pseudocode.png
+```{figure} Figures/Afbeelding_45_Pseudocode.png
 ---
 width: 60%
-name: Afbeelding_55_Pseudocode
+name: Afbeelding_45_Pseudocode
 ---
 Een voorbeeld van pseudecode
 ``` 
@@ -95,16 +95,14 @@ Creëer een programmeerstack naar aanleiding van onderstaande pseudocode.
 Controleer met je robot of je programma goed werkt. Laat het resultaat aan de docent zien.  
 ```
 
-```{exercise} Opdracht 17: Estafette 
+```{exercise} Pseudocode Estaffete
 Je gaat nu een estafetteprogramma creëren. Hierbij gelden de volgende regels:
 1.	Stel een afstand van 30 cm vast.
 2.	Breek de kubus af in vier estafettestokjes met verschillende kleuren.
 3.	Programmeer jouw oefenrijbasis zo dat deze vanaf de markering alle gekleurde stokjes om de beurt gaat ophalen.
 4.	Haal elk stokje uit de oefenrijbasis zodra deze is afgeleverd.
-```
-```{exercise} Opdracht 17a
 Schrijf de pseudocode voor het estafetteprogramma en laat dit aan de docent zien.
 ```
-```{exercise} Opdracht 17b
+```{exercise} Programma Estaffete
 Vertaal de pseudocode in een estafetteprogramma, voer dit uit en laat het resultaat zien aan de docent.
 ```
