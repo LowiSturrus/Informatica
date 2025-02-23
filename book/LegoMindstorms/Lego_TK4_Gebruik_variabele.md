@@ -47,7 +47,7 @@ Vanaf nu kun je de variabele ‘Power’ gebruiken. Wel moet je deze variabel no
 
 ```{figure} Figures/Afbeelding_64_Variabele_power.png
 ---
-width: 25%
+width: 20%
 name: Afbeelding_64_Variabele_power
 ---
 Toekennen waarde aan variabele ‘Power’'
@@ -55,7 +55,7 @@ Toekennen waarde aan variabele ‘Power’'
 
 In de programmeerstack van {numref}`Fig {number} <Afbeelding_65_Bewegen_met_variabele_power>` is weergegeven hoe het programma ‘beweging starten op % vermogen’ er dan uit komt te zien.
 
-```{figure} Figures/Afbeelding_65_Bewegen_met_variabele_power.png
+```{figure} Figures/Afbeelding_66_Bewegen_met_variabele_power.png
 ---
 width: 40%
 name: Afbeelding_65_Bewegen_met_variabele_power
