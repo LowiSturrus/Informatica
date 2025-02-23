@@ -125,6 +125,7 @@ width: 75%
 name: Afbeelding_29_Oefenactiviteiten
 ---
 Oefenactiviteiten
+```
 
 Begin door te klikken op ‘1 De lichtsensor’ en doorloop de stappen van het programma. Na het afronden van een onderdeel wordt automatisch doorgeschakeld naar het volgende onderdeel. Beantwoord tijdens de kennismaking met de verschillende sensoren de volgende vragen. 
 
