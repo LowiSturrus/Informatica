@@ -27,14 +27,14 @@ name: Afbeelding_52_Stoppen_bij_een_lijn
 Programmeerstack 'Stoppen bij een lijn'
 ``` 
 
-```{exercise} 
+```{exercise} 'Stoppen bij een lijn'
 Beschrijf wat er gebeurt als je het programma start.                                   
 ```
 
 Het verplaatsen van een robot van een locatie naar een andere locatie is heel belangrijk. De nauwkeurigheid van de beweging blijkt deels afhankelijk van de het programma, maar er zijn ook toevallige invloeden. De toevalligheden moeten zoveel als mogelijk worden voorkomen. Hiervoor bestaan verschillende methoden, zoals het volgen van een lijn of het rijden met behulp van afstandsmeting. De eerste methode kan gebruikt worden als er lijnen op de ondergrond zijn getekend. Dat wordt in de volgende opdrachten uitgelegd. Voor de tweede methode zijn geen hulplijnen nodig, maar dit wordt in een later hoofdstuk behandeld.
 
 
-```{exercise} 
+```{exercise} Pseudocode 'Stoppen bij een lijn'
 Overleg in een groepje van vier leerlingen over de pseudocode voor het volgen van een lijn. Schrijf het resultaat op en laat dit aan de docent zien.                                   
 ```
 
@@ -94,7 +94,7 @@ Het commando uit {numref}`Fig {number} <Afbeelding_55_Percentage_vermogen>` word
 ## Vervolg programmeerinstructies
 Je docent heeft met een plaat met een getrokken zwarte lijn gemaakt. De robot gaat naar deze lijn rijden en vervolgens de lijn volgen.
 
-```{exercise} 
+```{exercise} 'Volgen een lijn'
 Voeg de volgende programmeerstack aan het programma ‘volgen van een lijn’ en voer het programma uit. Laat het resultaat aan de docent zien.
 ```
 
@@ -110,7 +110,7 @@ Met het programma van {numref}`Fig {number} <Afbeelding_57_Volgen_lijn>` kun je 
 * Door het aanpassen van het ontwerp van de robot;
 * Door het aanpassen van het programma.
 
-```{exercise} Opdracht 22
+```{exercise} 
 Maak in hetzelfde groepje als bij opdracht 20 een aanpassing van het ontwerp van de robot, waardoor deze minder schokkerig gaat bewegen. Doorloop hierbij de volgende stappen:
 * Ieder groepslid bedenkt een eigen oplossing (5 minuten);
 * Ieder groepslid legt zijn oplossing uit aan de andere leden van de groep;
@@ -131,6 +131,6 @@ name: Afbeelding_58_Operator_reflectie
 Woordblok voor operator ‘reflectie’
 ```
 
-```{exercise} Opdracht 23
-Vraag de docent om de bovenstaande operator uit te leggen en gebruik deze operator om het programma van {numref}`Fig {number} <Afbeelding_67_Volgen_lijn>` aan te passen om de robot efficiënter te laten bewegen. Laat het resultaat aan de docent zien.
+```{exercise} 
+Vraag de docent om de bovenstaande operator uit te leggen en gebruik deze operator om het programma van Fig 5.7>` aan te passen om de robot efficiënter te laten bewegen. Laat het resultaat aan de docent zien.
 ``` 

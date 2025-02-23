@@ -37,13 +37,13 @@ name: Afbeelding_33_Rondrijden
 Programmeerstack 'Rondrijden'
 ``` 
 
-```{exercise}
+```{exercise} Start 'Rondrijden'
 Beschrijf wat er gebeurt als je het programma start.                                   
 ```
-```{exercise}
+```{exercise} Linker knop 'Rondrijden'
 Beschrijf wat er gebeurt als je op de linker knop indrukt.
 ```
-```{exercise}
+```{exercise} Rechter knop 'Rondrijden'
 Beschrijf wat er gebeurt als je op de rechter knop indrukt.
 ```
 

@@ -58,7 +58,7 @@ Met behulp van de programmeerstack van {numref}`Fig {number} <Afbeelding_75_Mete
 
 ```{figure} Figures/Afbeelding_75_Meten_yaw_hoek.png
 ---
-width: 30%
+width: 40%
 name: Afbeelding_75_Meten_yaw_hoek
 ---
 Programmeerstack ‘meten yaw-hoek’
@@ -76,7 +76,7 @@ Open een nieuw project met woordblokken. Neem de volgende programmeerstack over 
 
 ```{figure} Figures/Afbeelding_76_Een_rechte_lijn.png
 ---
-width: 50%
+width: 60%
 name: Afbeelding_76_Een_rechte_lijn
 ---
 Programmeerstack ‘Een rechte lijn’
@@ -90,7 +90,7 @@ In het programma komt het volgende woordblok voor:
 
 ```{figure} Figures/Afbeelding_77_Timer.png
 ---
-width: 25%
+width: 20%
 name: Afbeelding_77_Timer
 ---
 De sensor 'Timer'
@@ -108,7 +108,7 @@ In {numref}`Fig {number} <Afbeelding_78_Variatie_een_rechte_lijn>` het dezelfde 
 
 ```{figure} Figures/Afbeelding_78_Variatie_een_rechte_lijn.png
 ---
-width: 50%
+width: 60%
 name: Afbeelding_78_Variatie_een_rechte_lijn
 ---
 Variatie op de programmeerstack ‘Een rechte lijn’ 

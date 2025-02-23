@@ -11,8 +11,8 @@ Ook in het programma voor SPIKE Prime kan gebruik worden gemaakt van variabelen.
 ## Maken nieuwe variabele
 Open de programmeerstack van opdracht 21 ‘beweging starten op % vermogen’ ({numref}`Fig {number} <Afbeelding_56_Bewegen_percentage_vermogen>`). Je gaat dit programma aanpassen door voor het vermogen en variabele te gebruiken.  
 
-```{exercise} Opdracht 24
-Klik op de categorie ‘VARIABELEN’ en vervolgens op de knop ‘Maak een variabele’. Je krijgt nu het invulscherm in {numref}`Fig {number} <Afbeelding_61_Nieuwe_variabegen>` te zien.                                   
+```{exercise} Maak en variabele
+Klik op de categorie ‘VARIABELEN’ en vervolgens op de knop ‘Maak een variabele’. Je krijgt nu het invulscherm in Fig 6.1 te zien.                                   
 ```
 
 ```{figure} Figures/Afbeelding_61_Nieuwe_variabele.png
@@ -55,7 +55,7 @@ Toekennen waarde aan variabele ‘Power’'
 
 In de programmeerstack van {numref}`Fig {number} <Afbeelding_65_Bewegen_met_variabele_power>` is weergegeven hoe het programma ‘beweging starten op % vermogen’ er dan uit komt te zien.
 
-```{figure} Figures/Afbeelding_66_Bewegen_met_variabele_power.png
+```{figure} Figures/Afbeelding_65_Bewegen_met_variabele_power.png
 ---
 width: 40%
 name: Afbeelding_65_Bewegen_met_variabele_power
@@ -69,7 +69,7 @@ Verander het programma ‘beweging starten op % vermogen’ en voer het uit.
 
 Aan de rechterkant van het Programmeerscherm is nu een Variabelenscherm te zien. Hierin staan alle variabelen die in een programma worden gebruikt met de laatste waarden.
 
-```{figure} Figures/Afbeelding_76_Deelscherm_variabelen.png
+```{figure} Figures/Afbeelding_66_Deelscherm_variabelen.png
 ---
 width: 30%
 name: Afbeelding_66_Deelscherm_variabelen

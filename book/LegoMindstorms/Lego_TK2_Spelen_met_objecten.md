@@ -27,13 +27,13 @@ name: Afbeelding_42_Spelen_met_objecten
 Programmeerstack 'Spelen met objecten'
 ``` 
 
-```{exercise} 
+```{exercise} Start 'Spelen met objecten'
 Beschrijf wat er gebeurt als je het programma start.                                   
 ```
-```{exercise} 
+```{exercise} Linker knop 'Spelen met objecten'
 Beschrijf wat er gebeurt als je op de linker knop indrukt.
 ```
-```{exercise} 
+```{exercise} Rechter knop 'Spelen met objecten'
 Beschrijf wat er gebeurt als je op de rechter knop indrukt.
 ```
 
@@ -47,7 +47,7 @@ name: Afbeelding_43_Laten_lopen
 Commando uit programmeerstack
 ``` 
 
-```{exercise} 
+```{exercise} 'Aanpassen Spelen met objecten'
 Pas het commando aan zodat motor E naar rechts draait over 75 graden en vervang het laatste deel van het programma door onderstaande programmeerstack.                                   
 ```
 
