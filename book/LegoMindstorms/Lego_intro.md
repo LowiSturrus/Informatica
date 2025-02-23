@@ -1,7 +1,24 @@
-# Lego Mindstorms intro
-LEGO® Education SPIKE™ Prime is dé tool waarmee je kunt leren programmeren. SPIKE Prime is een combinatie van LEGO bouwelementen, gebruiksvriendelijke hardware en een intuïtieve, programmeertaal: Scratch.
-
-De programmeerbare steen (hub of brick) heeft 6 in-/uitvoerpoorten, een 5x5-lichtmatrix, bluetooth-connectiviteit, een luidspreker, een 6-assige gyro, en een oplaadbare batterij. De SPIKE Prime Set bevat daarnaast zeer nauwkeurige motoren en sensoren waarmee je, in combinatie met allerlei kleurige LEGO bouwelementen, leuke robots, dynamische apparaten en andere interactieve modellen kunt ontwerpen en bouwen. Dankzij de vele aansluitingspunten op de hub, de motoren, de sensoren en de nieuwe, grote bouwelementen, verlies je minder tijd met bouwen, en hebben je meer tijd om te leren.
+# Lego Education Spike inleiding
+```{figure} /LegoMindstorms/Figures/Lego_Logo.png
+---
+width: 30%
+name: Lego_Logo
+figclass: margin
+---
+```
+LEGO® Education SPIKE™ Prime is dé tool waarmee je kunt leren programmeren. SPIKE Prime is een combinatie van LEGO bouwelementen, gebruiksvriendelijke hardware en een programmeertaal. Er zijn drie programmeertalen beschikbaar:
+1.	Pictogramblokken
+2.	Woordblokken = Scratch
+3.	Python
+In dit Jupyter Book wordt ingegaan op de methode met behulp van intuïtieve programmeertaal Scratch.
+```{figure} /LegoMindstorms/Figures/Lego_Education_Logo.png
+---
+width: 35%
+name: Lego_Education_Logo
+figclass: margin
+---
+```
+De basis van SPIKE Prime is een centrale besturingsmodule/programmeerbare steen (hub of brick). De heeft 6 in-/uitvoerpoorten, een 5x5-lichtmatrix, bluetooth-connectiviteit, een luidspreker, een 6-assige gyro, en een oplaadbare batterij en kan door middel van de software worden geprogrammeerd met een computer. De SPIKE Prime Set bevat daarnaast zeer nauwkeurige motoren en sensoren waarmee je, in combinatie met allerlei kleurige LEGO® bouwelementen, leuke robots, dynamische apparaten en andere interactieve creaties kunt ontwerpen en bouwen. Dankzij de vele aansluitingspunten op de steen, de motoren, de sensoren en de nieuwe, grote bouwelementen, verlies je minder tijd met bouwen, en heb je meer tijd om te leren. Door de combinatie van bouwelementen motoren en sensoren en een programmeerbare steen kun je je creaties laten lopen, praten, grijpen, denken, schieten en bijna alles wat je je maar voor kunt stellen. 
 
 Voor het programmeren wordt gebruik gemaakt van een app. Deze app is te vinden in de appstore of via de link:
 
