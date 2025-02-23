@@ -15,7 +15,7 @@ In Lego Spike kun je deze berekening laten uitvoeren door een variabele, bijvoor
 
 ```{figure} Figures/Afbeelding_81_Commando_afgelegde_afstand.png
 ---
-width: 40%
+width: 50%
 name: Afbeelding_81_Commando_afgelegde_afstand
 ---
 Voorbeeld van commando om afgelegde afstand te berekenen 
@@ -25,7 +25,7 @@ Om het programma goed te laten werken dienen een aantal beginwaarden te worden i
 
 ```{figure} Figures/Afbeelding_82_Programma_afgelegde_afstand.png
 ---
-width: 50%
+width: 60%
 name: Afbeelding_82_Programma_afgelegde_afstand
 ---
 Programmeerstack voor het meten van de afgelegde afstand  
@@ -43,7 +43,7 @@ Als het programma wordt uitgevoerd, wordt de positie van het wiel gemeten en geb
 
 ```{figure} Figures/Afbeelding_83_Waarden_van_motoren_en_sensoren.png
 ---
-width: 50%
+width: 60%
 name: Afbeelding_83_Waarden_van_motoren_en_sensoren
 ---
 Verbindingsknop om de waarden van motoren en sensoren zichtbaar te maken  
@@ -53,7 +53,7 @@ Je kunt hier de relatieve positie niet gelijk aflezen. De weergegeven waarde moe
 
 ```{figure} Figures/Afbeelding_84_Dashboard_motoren_en_sensoren.png
 ---
-width: 50%
+width: 60%
 name: Afbeelding_84_Dashboard_motoren_en_sensoren
 ---
 Dashboard voor het instellen van de sensoren- en motor-waarden die getoond worden in het deelvenster van figuur 8.3  

@@ -48,7 +48,7 @@ De yaw kan waarden hebben van 0° tot 180° of van 0° tot -180°. Dit is afhank
 
 ```{figure} Figures/Afbeelding_74_Waarden_yaw_hoek.png
 ---
-width: 100%
+width: 75%
 name: Afbeelding_74_Waarden_yaw_hoek
 ---
 De waarden van de yaw-hoek
@@ -76,7 +76,7 @@ Open een nieuw project met woordblokken. Neem de volgende programmeerstack over 
 
 ```{figure} Figures/Afbeelding_76_Een_rechte_lijn.png
 ---
-width: 60%
+width: 70%
 name: Afbeelding_76_Een_rechte_lijn
 ---
 Programmeerstack ‘Een rechte lijn’
@@ -127,7 +127,7 @@ De variabel 'Correctie'
 
 ```{figure} Figures/Afbeelding_710_M_Power_vermogen.png
 ---
-width: 40%
+width: 50%
 name: Afbeelding_710_M_Power_vermogen
 ---
 De variabelen 'M-Power' en 'Correctie' voor het rijden in een rechte lijn
