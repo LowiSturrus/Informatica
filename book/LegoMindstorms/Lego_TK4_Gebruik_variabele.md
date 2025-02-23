@@ -9,61 +9,61 @@ Ook in het programma voor SPIKE Prime kan gebruik worden gemaakt van variabelen.
  
 
 ## Maken nieuwe variabele
-Open de programmeerstack van opdracht 21 ‘beweging starten op % vermogen’ ({numref}`Fig {number} <Afbeelding_66_Bewegen_percentage_vermogen>`). Je gaat dit programma aanpassen door voor het vermogen en variabele te gebruiken.  
+Open de programmeerstack van opdracht 21 ‘beweging starten op % vermogen’ ({numref}`Fig {number} <Afbeelding_56_Bewegen_percentage_vermogen>`). Je gaat dit programma aanpassen door voor het vermogen en variabele te gebruiken.  
 
 ```{exercise} Opdracht 24
-Klik op de categorie ‘VARIABELEN’ en vervolgens op de knop ‘Maak een variabele’. Je krijgt nu het invulscherm in figuur 27 te zien.                                   
+Klik op de categorie ‘VARIABELEN’ en vervolgens op de knop ‘Maak een variabele’. Je krijgt nu het invulscherm in {numref}`Fig {number} <Afbeelding_61_Nieuwe_variabegen>` te zien.                                   
 ```
 
-```{figure} Figures/Afbeelding_71_Nieuwe_variabele.png
+```{figure} Figures/Afbeelding_61_Nieuwe_variabele.png
 ---
 width: 40%
-name: Afbeelding_71_Nieuwe_variabele
+name: Afbeelding_61_Nieuwe_variabele
 ---
 Invulvenster 'Nieuwe variabele'
 ``` 
 
 Geef de variabele de naam ‘Power’ en druk op ‘OK’. Je hebt nu een nieuwe variabele gemaakt. Deze kun je gebruiken door het commando.
 
-```{figure} Figures/Afbeelding_72_Vermogen_zonder_variabele.png
+```{figure} Figures/Afbeelding_62_Vermogen_zonder_variabele.png
 ---
 width: 40%
-name: Afbeelding_72_Vermogen_zonder_variabele
+name: Afbeelding_62_Vermogen_zonder_variabele
 ---
 Commando voor vermogen met ingevulde waarden
 ``` 
 
 te vervangen door
 
-```{figure} Figures/Afbeelding_73_Vermogen_met_variabele.png
+```{figure} Figures/Afbeelding_63_Vermogen_met_variabele.png
 ---
 width: 40%
-name: Afbeelding_73_Vermogen_met_variabele
+name: Afbeelding_63_Vermogen_met_variabele
 ---
 Commando voor vermogen m.b.v. een variabele 'Power'
 ``` 
 
 Vanaf nu kun je de variabele ‘Power’ gebruiken. Wel moet je deze variabel nog een waarde geven. Dat doe je met het volgende commando:
 
-```{figure} Figures/Afbeelding_74_Variabele_power.png
+```{figure} Figures/Afbeelding_64_Variabele_power.png
 ---
 width: 25%
-name: Afbeelding_74_Variabele_power
+name: Afbeelding_64_Variabele_power
 ---
 Commando voor vermogen m.b.v. een variabele 'Power'
 ``` 
 
-In de programmeerstack van figuur 28 is weergegeven hoe het programma ‘beweging starten op % vermogen’ er dan uit komt te zien.
+In de programmeerstack van {numref}`Fig {number} <Afbeelding_65_Bewegen_met_variabele_power>` is weergegeven hoe het programma ‘beweging starten op % vermogen’ er dan uit komt te zien.
 
-```{figure} Figures/Afbeelding_75_Bewegen_met_variabele_power.png
+```{figure} Figures/Afbeelding_65_Bewegen_met_variabele_power.png
 ---
 width: 40%
-name: Afbeelding_75_Bewegen_met_variabele_power
+name: Afbeelding_65_Bewegen_met_variabele_power
 ---
 Programmeerstack ‘beweging starten op % vermogen’ met behulp van de variabele ‘Power’
 ``` 
 
-```{exercise} Opdracht 25
+```{exercise} 
 Verander het programma ‘beweging starten op % vermogen’ en voer het uit.                                   
 ```
 
@@ -72,24 +72,24 @@ Aan de rechterkant van het Programmeerscherm is nu een Variabelenscherm te zien.
 ```{figure} Figures/Afbeelding_76_Deelscherm_variabelen.png
 ---
 width: 30%
-name: Afbeelding_76_Deelscherm_variabelen
+name: Afbeelding_66_Deelscherm_variabelen
 ---
 Deelscherm met de waarden van de variabelen
 ``` 
 
 ## Veranderen waarde van een variabelen
-In hoofdstuk 4 heb je een programmeerstack gebruikt om de robot bij een lijn te laten stoppen. Met het programma wordt de robot gestopt bij de eerste lijn van de juiste kleur, die het tegenkomt. Maar stel nu dat je de robot moet laten stoppen bij de derde lijn van de juiste kleur. Dit kan door een nieuwe variabele te maken met de naam ‘Teller’. Deze variabele krijgt de beginwaarde 0. Elke keer als de robot een lijn van de juiste kleur tegenkomt, wordt Teller verandert met 1. Als Teller de waarde 3 heeft moet de robot stoppen. (zie {numref}`Fig {number} <Afbeelding_66_Bewegen_percentage_vermogen>`)
+In hoofdstuk 4 heb je een programmeerstack gebruikt om de robot bij een lijn te laten stoppen. Met het programma wordt de robot gestopt bij de eerste lijn van de juiste kleur, die het tegenkomt. Maar stel nu dat je de robot moet laten stoppen bij de derde lijn van de juiste kleur. Dit kan door een nieuwe variabele te maken met de naam ‘Teller’. Deze variabele krijgt de beginwaarde 0. Elke keer als de robot een lijn van de juiste kleur tegenkomt, wordt Teller verandert met 1. Als Teller de waarde 3 heeft moet de robot stoppen. (zie {numref}`Fig {number} <Afbeelding_67_Gebruik_teller>`)
 
-```{figure} Figures/Afbeelding_77_Gebruik_teller.png
+```{figure} Figures/Afbeelding_67_Gebruik_teller.png
 ---
 width: 25%
-name: Afbeelding_77_Gebruik_teller
+name: Afbeelding_67_Gebruik_teller
 ---
 Commando's voor het instellen en veranderen van een variabele.
 ``` 
 
 De docent heeft en speelveld met meerdere lijnen. Gebruik dit speelveld.
 
-```{exercise} Opdracht 26
+```{exercise} Stoppen bij groene lijn
 Schrijf een programmeerstack die ervoor zorgt dat de robot stopt bij de derde groene lijn. Voer het programma uit en laat het resultaat zien aan de docent.  
 ```
