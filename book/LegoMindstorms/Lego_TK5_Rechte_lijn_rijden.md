@@ -11,11 +11,11 @@ Zoals in hoofdstuk 3 is vermeld kent de gyroscoop kent drie verschillende opties
 **Hoeken**
 Hoeken worden in de wiskunde uitgedrukt in graden (°). Het is niet de bedoeling van deze handleiding om uitgebreid op dit onderwerp in te gaan. Hier wordt volstaan met een korte uitleg met behulp van {numref}`Fig {number} <Afbeelding_71_Yaw_hoeken>`:
 
-* De uitgangspositie van de robot in de figuur 30 linksboven wordt gelijkgesteld met een hoek van 0°;
-* Als de robot een kwartslag draait in de richting van de wijzers van de klok, dan is die gedraaid over een hoek van 90° (zie figuur 30 rechtsboven). Dit wordt in de wiskunde een rechte hoek genoemd;
-* Als de robot over een hoek van 180° is gedraaid, zoals in figuur 30 rechtsonder, staat die precies in de tegenovergestelde richting als in de uitgangspositie;
-* Bij een draaiing over 270° ontstaat weer een rechte hoek. De robot staat weer in een rechte hoek ten opzichte van de uitgangspositie. De positie komt overeen met een draaiing over 90° tegen de wijzers van de klok in. Dit wordt daarom ook wel een draaiing over -90° genoemd. De situatie is weergegeven in figuur 30 linksonder;
-* Als de robot één keer volledig om zijn as draait en dus weer in de uitgangspositie staat, dan heeft die een hele zogenaamde cirkelbeweging uitgevoerd. De robot is dan gedraaid over een hoek van 360° (zie figuur 30 rechtsboven).
+* De uitgangspositie van de robot in de {numref}`Fig {number} <Afbeelding_71_Yaw_hoeken>` linksboven wordt gelijkgesteld met een hoek van 0°;
+* Als de robot een kwartslag draait in de richting van de wijzers van de klok, dan is die gedraaid over een hoek van 90° (zie {numref}`Fig {number} <Afbeelding_71_Yaw_hoeken>` rechtsboven). Dit wordt in de wiskunde een rechte hoek genoemd;
+* Als de robot over een hoek van 180° is gedraaid, zoals in {numref}`Fig {number} <Afbeelding_71_Yaw_hoeken>` rechtsonder, staat die precies in de tegenovergestelde richting als in de uitgangspositie;
+* Bij een draaiing over 270° ontstaat weer een rechte hoek. De robot staat weer in een rechte hoek ten opzichte van de uitgangspositie. De positie komt overeen met een draaiing over 90° tegen de wijzers van de klok in. Dit wordt daarom ook wel een draaiing over -90° genoemd. De situatie is weergegeven in {numref}`Fig {number} <Afbeelding_71_Yaw_hoeken>` linksonder;
+* Als de robot één keer volledig om zijn as draait en dus weer in de uitgangspositie staat, dan heeft die een hele zogenaamde cirkelbeweging uitgevoerd. De robot is dan gedraaid over een hoek van 360° (zie {numref}`Fig {number} <Afbeelding_71_Yaw_hoeken>` rechtsboven).
 * Tussen de vier genoemde standen zijn de hoeken gelijkmatig verdeeld. De hoeken op een kompas zijn op dezelfde manier verdeeld, waarbij 0° overeenkomt met de richting ‘Noord’, 90° met ‘Oost’, 180° is ‘Zuid’ en 270° is ‘West’ (zie {numref}`Fig {number} <Afbeelding_72_Kompasroos>`).
 
 ```{figure} Figures/Afbeelding_71_Yaw_hoeken.png
@@ -83,7 +83,7 @@ Programmeerstack ‘Een rechte lijn’
 ``` 
 
 ```{exercise} Pseudocode 'Een rechte lijn'
-Schrijf de pseudecode die hoort bij het programma in {numref}`Fig {number} <Afbeelding_75_Meten_yaw_hoek>`  en toon het resultaat aan de docent.                                   
+Schrijf de pseudecode die hoort bij het programma in {numref}`Fig {number} <Afbeelding_76_Een_rechte_lijn>`  en toon het resultaat aan de docent.                                   
 ```
 
 In het programma komt het volgende woordblok voor: 
@@ -96,7 +96,7 @@ name: Afbeelding_77_Timer
 De sensor 'Timer'
 ``` 
 
-Dit is een voorbeeld van een zogenaamde ‘operator’. In dit geval maakt de operator gebruik van de sensor ‘timer’ die de tijd aangeeft nadat het programma is begonnen of de tijd die verlopen is nadat de timer gereset is. Het gebruik van deze operator in het herhaal-tot-blok van {numref}`Fig {number} <Afbeelding_86_Een_rechte_lijn>` betekent dat de commando’s in dit blok gedurende 5 s moeten worden herhaald.
+Dit is een voorbeeld van een zogenaamde ‘operator’. In dit geval maakt de operator gebruik van de sensor ‘timer’ die de tijd aangeeft nadat het programma is begonnen of de tijd die verlopen is nadat de timer gereset is. Het gebruik van deze operator in het herhaal-tot-blok van {numref}`Fig {number} <Afbeelding_76_Een_rechte_lijn>` betekent dat de commando’s in dit blok gedurende 5 s moeten worden herhaald.
 
 De overige woordblokken zijn eerder al behandeld.
 

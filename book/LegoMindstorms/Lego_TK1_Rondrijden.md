@@ -67,7 +67,7 @@ name: Afbeelding_35_Testen_bewegen
 Programmeerstack voor testen commando's
 ``` 
 
-In de programmeerstack is het linker commando van figuur 13 opgenomen met de waarde ‘rechts: 100’. Door hierop te klikken kan de waarde van deze **parameter** worden veranderd.
+In de programmeerstack is het linker commando van {numref}`Fig {number} <Afbeelding_34_Commandos_bewegen>` opgenomen met de waarde ‘rechts: 100’. Door hierop te klikken kan de waarde van deze **parameter** worden veranderd.
 
 ```{exercise}
 Kies minimaal drie verschillende waarden voor de parameter en beschrijf wat het effect van de verandering is.                                   
@@ -81,10 +81,10 @@ Beschrijf wat het verschil is tussen de twee commando’s van figuur 13.
 ```
 
 ```{exercise}
-Vervang het laatste commando in de programmeerstack van figuur 14 door het rechter commando van figuur 13 en voer het programma opnieuw uit.
+Vervang het laatste commando in de programmeerstack van fig 3.5 door het rechter commando van fig 3.4 en voer het programma opnieuw uit.
 ```
 
-In het rechter commando van figuur 13 is de waarde van de parameter uitgedrukt in cm. Er kan ook gekozen worden voor andere eenheden: inches, rotaties, graden en seconden. 
+In het rechter commando van {numref}`Fig {number} <Afbeelding_34_Commandos_bewegen>` is de waarde van de parameter uitgedrukt in cm. Er kan ook gekozen worden voor andere eenheden: inches, rotaties, graden en seconden. 
 
 ```{exercise} inches, rotaties, graden en seconden
 Voer het programma meerdere keren uit met telkens een andere eenheid.

@@ -111,7 +111,7 @@ Met het programma van {numref}`Fig {number} <Afbeelding_57_Volgen_lijn>` kun je 
 * Door het aanpassen van het programma.
 
 ```{exercise} 
-Maak in hetzelfde groepje als bij opdracht 20 een aanpassing van het ontwerp van de robot, waardoor deze minder schokkerig gaat bewegen. Doorloop hierbij de volgende stappen:
+Maak in hetzelfde groepje als bij opdracht 5.2 een aanpassing van het ontwerp van de robot, waardoor deze minder schokkerig gaat bewegen. Doorloop hierbij de volgende stappen:
 * Ieder groepslid bedenkt een eigen oplossing (5 minuten);
 * Ieder groepslid legt zijn oplossing uit aan de andere leden van de groep;
 * Bespreek vervolgens de bedachte oplossingen;
@@ -132,5 +132,5 @@ Woordblok voor operator ‘reflectie’
 ```
 
 ```{exercise} 
-Vraag de docent om de bovenstaande operator uit te leggen en gebruik deze operator om het programma van Fig 5.7>` aan te passen om de robot efficiënter te laten bewegen. Laat het resultaat aan de docent zien.
+Vraag de docent om de bovenstaande operator uit te leggen en gebruik deze operator om het programma van Fig 5.7 aan te passen om de robot efficiënter te laten bewegen. Laat het resultaat aan de docent zien.
 ``` 

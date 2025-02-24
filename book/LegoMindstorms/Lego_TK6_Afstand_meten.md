@@ -32,7 +32,7 @@ Programmeerstack voor het meten van de afgelegde afstand
 ``` 
 
 ```{exercise} Programma 'Afgelegde afstand'
-Open een nieuw project met woordblokken. Neem de programmeerstack van figuur 8.2 over en voer het programma uit.                                    
+Open een nieuw project met woordblokken. Neem de programmeerstack van {numref}`Fig {number} <Afbeelding_82_Programma_afgelegde_afstand>` over en voer het programma uit.                                    
 ```
 
 ```{exercise} 
@@ -56,5 +56,5 @@ Je kunt hier de relatieve positie niet gelijk aflezen. De weergegeven waarde moe
 width: 70%
 name: Afbeelding_84_Dashboard_motoren_en_sensoren
 ---
-Dashboard voor het instellen van de sensoren- en motor-waarden die getoond worden in het deelvenster van figuur 8.3  
+Dashboard voor het instellen van de sensoren- en motor-waarden die getoond worden in het deelvenster van {numref}`Fig {number} <Afbeelding_83_Waarden_van_motoren_en_sensoren>` 
 ``` 
