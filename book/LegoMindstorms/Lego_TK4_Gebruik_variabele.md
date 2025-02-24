@@ -12,7 +12,7 @@ Ook in het programma voor SPIKE Prime kan gebruik worden gemaakt van variabelen.
 Open de programmeerstack van opdracht 5.3 ‘beweging starten op % vermogen’ ({numref}`Fig {number} <Afbeelding_56_Bewegen_percentage_vermogen>`). Je gaat dit programma aanpassen door voor het vermogen en variabele te gebruiken.  
 
 ```{exercise} Maak en variabele
-Klik op de categorie ‘VARIABELEN’ en vervolgens op de knop ‘Maak een variabele’. Je krijgt nu het invulscherm in {numref}`Fig {number} <Afbeelding_61_Nieuwe_variabel>` te zien.                                   
+Klik op de categorie ‘VARIABELEN’ en vervolgens op de knop ‘Maak een variabele’. Je krijgt nu het invulscherm in {numref}`Fig {number} <Afbeelding_61_Nieuwe_variabele>` te zien.                                   
 ```
 
 ```{figure} Figures/Afbeelding_61_Nieuwe_variabele.png

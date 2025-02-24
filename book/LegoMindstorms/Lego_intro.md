@@ -1,4 +1,4 @@
-# Lego Education Spike inleiding
+# Lego Education Spike introductie
 ```{figure} /LegoMindstorms/Figures/Lego_Logo.png
 ---
 width: 40%
