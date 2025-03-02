@@ -1,0 +1,3 @@
+# TK 6: Slot
+
+Je hebt nu alle belangrijke woordblokken die nodig zijn voor het maken van een programmeerstack leren kennen. Voor een duidelijk overzicht naar het document ‘Overzicht_programmeerblokken_Spike_Prime_versie_1.pdf ‘. Verder heb je een aantal vaardigheden aangeleerd, zoals het gebruik van motoren en sensoren, het volgen van een lijn, het gebruik van een programma waarmee de afgelegde afstand kan worden gemeten. Deze vaardigheden zijn belangrijk bij alle robots die gebouwd en geprogrammeerd worden. Je hebt ze bijvoorbeeld nodig bij de missies volgens de First Lego League. Er zijn meerdere woordblokken nog niet behandeld, maar die worden duidelijk door de oefenen en te proberen. 
